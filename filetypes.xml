@@ -7,8 +7,8 @@
       <mapping ext="mp3" type="Native" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="jnilib" type="PLAIN_TEXT" />
-      <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="lex" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
