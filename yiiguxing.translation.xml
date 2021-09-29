@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Norms Normal" />
       <item value="disabled" />
       <item value="Eligible" />
       <item value="emergency" />
@@ -52,7 +53,6 @@
       <item value="Quota" />
       <item value="append" />
       <item value="cond" />
-      <item value="Morphology" />
     </histories>
     <option name="languageScores">
       <map>
