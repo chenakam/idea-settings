@@ -1,13 +1,411 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="ProjectViewState">
-        <option name="flattenPackages" value="true" />
-        <option name="hideEmptyMiddlePackages" value="true" />
-        <option name="showLibraryContents" value="true" />
+      <component name="CompilerConfiguration">
+        <bytecodeTargetLevel target="1.8" />
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/develop/workspace_apollo/activemq-apollo" value="5790231842000" />
+            <entry key="$USER_HOME$/develop/workspace_apollo/activemq-apollo-gradle" value="5790266219000" />
+            <entry key="$USER_HOME$/git/me-github/corda" value="2970136726000" />
+            <entry key="$USER_HOME$/git/me-osc/Annoguard" value="2981338349000" />
+            <entry key="$USER_HOME$/git/me-osc/Wei.TaskQ/TaskFlow" value="2981073996000" />
+            <entry key="$USER_HOME$/git/other/hello-scaloid-gradle" value="1454839620000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="MarkdownProjectSettings" wasCopied="true">
+        <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="900" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="false" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="true" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="true" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="ADMONITION_EXT" value="false" />
+            <option name="ATTRIBUTES_EXT" value="false" />
+            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="ENUMERATED_REFERENCES_EXT" value="false" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="GITLAB_EXT" value="false" />
+            <option name="GITLAB_MATH_EXT" value="false" />
+            <option name="GITLAB_MERMAID_EXT" value="false" />
+            <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="MACROS_EXT" value="false" />
+            <option name="NO_TEXT_ATTRIBUTES" value="false" />
+            <option name="PARSE_HTML_ANCHOR_ID" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="false" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+          <cssUriHistory />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Accessibility</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness &gt; Chrome OS</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Lint</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Performance</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Security</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+              </State>
+              <State>
+                <id>Android Lint for Kotlin</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Cloning issuesJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>CollectionsScala</id>
+              </State>
+              <State>
+                <id>Compiler issuesJava</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Data flow issuesJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>GeneralScala</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>Inheritance issuesJava</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 9Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavaBeans issuesJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Logging issuesJava</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>RegExp</id>
+              </State>
+              <State>
+                <id>Resource management issuesJava</id>
+              </State>
+              <State>
+                <id>Scala</id>
+              </State>
+              <State>
+                <id>SizeCollectionsScala</id>
+              </State>
+              <State>
+                <id>Threading issuesGroovy</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2954023" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/git/other/hello-scaloid-sbt" value="1454839541000" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/git/akka/akka-quickstart-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/dedge/AkkaTest" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/dedge/android.m" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/dedge/android.m/autotx" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/dedge/autex" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/dedge/logic-exec-engine" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/dedge/wallet.scry" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/epibo/credit-id" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/me-github/Reflow" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/sybilo/UnRar" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/sybilo/UnRar/unrar_dec_supported" value="PREVIEW" />
+            <entry key="$USER_HOME$/git/sybilo/UnRar8Wei" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customLauncherPath" value="/usr/local/Cellar/sbt/0.13.9/libexec/sbt-launch.jar" />
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home" />
+        <option name="maximumHeapSize" value="4096" />
       </component>
       <component name="masterDetails">
         <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>scala-sdk-2.11.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2954023" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2954023" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
@@ -15,6 +413,17 @@
                 <option name="proportions">
                   <list>
                     <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2954023" />
                   </list>
                 </option>
               </splitter-proportions>

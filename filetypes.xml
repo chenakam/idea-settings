@@ -1,17 +1,31 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="*.profile*" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="mp3" type="Native" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="jnilib" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern=".history" type="PLAIN_TEXT" />
+      <mapping ext="afdesign" type="PLAIN_TEXT" />
+      <mapping ext="excludes" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping pattern="proguard-*.pro" type="Shrinker Config File" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pro" approved="true" type="ProGuard File" />
+      <removed_mapping ext="pro" approved="true" type="Shrinker Config File" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="py" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>

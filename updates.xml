@@ -1,0 +1,16 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="163.10154.41" />
+      <item value="system-images;android-22;default;x86_64#6" />
+      <item value="203.7148.57" />
+      <item value="203.6682.168" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IC-212.5284.40" />
+    <option name="LAST_TIME_CHECKED" value="1634128470425" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugins/nightly/1347" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
