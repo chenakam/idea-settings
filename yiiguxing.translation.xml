@@ -1,74 +1,88 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="528" />
-    <option name="newTranslationDialogY" value="316" />
+    <option name="newTranslationDialogX" value="688" />
+    <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="tends" />
+      <item value="Norms Normal" />
+      <item value="disabled" />
+      <item value="Eligible" />
+      <item value="emergency" />
+      <item value="variant" />
+      <item value="Underlying" />
+      <item value="Distinguish" />
+      <item value="leak Args" />
+      <item value="norms" />
+      <item value="pragma" />
+      <item value="Obstinacy" />
+      <item value="Obstacle" />
+      <item value="Balk" />
+      <item value="baulk" />
+      <item value="Baulk" />
+      <item value="阻力值" />
+      <item value="Drag" />
+      <item value="Draggable" />
+      <item value="Dragable" />
+      <item value="reserved" />
+      <item value="baffle" />
+      <item value="Barrier" />
+      <item value="barrier" />
+      <item value="Mpa" />
+      <item value="Priceable" />
+      <item value="tole" />
+      <item value="is Tolerable" />
+      <item value="is It Tolerable" />
+      <item value="is Tolerate" />
+      <item value="is Tole" />
+      <item value="tolerate" />
+      <item value="Tole" />
+      <item value="Abide" />
+      <item value="toler" />
+      <item value="abide" />
+      <item value="brook" />
       <item value="resolve" />
       <item value="solve" />
-      <item value="integrate" />
-      <item value="eval" />
-      <item value="Tim Sort" />
-      <item value="strict" />
-      <item value="brackets" />
-      <item value="emergency" />
-      <item value="is Tolerable" />
-      <item value="succeed" />
-      <item value="识别" />
-      <item value="carriage" />
-      <item value="terminated" />
-      <item value="Distinguish" />
-      <item value="Trends" />
-      <item value="tends" />
-      <item value="Snippet" />
-      <item value="Kind" />
+      <item value="pure Lit" />
+      <item value="宽容" />
+      <item value="Calm" />
       <item value="Rateable" />
-      <item value="Kotlin Syntax Like" />
-      <item value="Syntax" />
-      <item value="Kotlin Grammar Like" />
-      <item value="语法" />
-      <item value="standard Interpolator" />
-      <item value="positive or negative" />
-      <item value="granu Crude" />
-      <item value="Gradient" />
-      <item value="gradient" />
-      <item value="begin" />
-      <item value="read Resolve" />
-      <item value="term" />
-      <item value="pulse" />
-      <item value="funds Assign" />
-      <item value="有价格快照的" />
-      <item value="价格快照" />
-      <item value="tradable" />
-      <item value="untradeable" />
-      <item value="untradable" />
-      <item value="expire" />
-      <item value="expired" />
-      <item value="invalidate Duration" />
-      <item value="is Adverse" />
-      <item value="adverse" />
-      <item value="is Reverse" />
-      <item value="DECADE" />
-      <item value="TEN" />
-      <item value="decimals" />
-      <item value="totally" />
-      <item value="Totally" />
-      <item value="Total" />
+      <item value="Nor" />
+      <item value="Norms" />
+      <item value="Countable" />
+      <item value="Norm" />
+      <item value="判断标准" />
+      <item value="Quota" />
+      <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
-        <entry key="POLISH" value="1" />
-        <entry key="BOSNIAN" value="2" />
-        <entry key="FRENCH" value="3" />
+        <entry key="CHINESE" value="785" />
+        <entry key="ENGLISH" value="786" />
+        <entry key="DANISH" value="3" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="4" />
+        <entry key="FRENCH" value="9" />
+        <entry key="FILIPINO" value="2" />
+        <entry key="GUJARATI" value="1" />
+        <entry key="DUTCH" value="4" />
+        <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="PORTUGUESE" value="3" />
+        <entry key="JAPANESE" value="7" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="SLOVENIAN" value="7" />
+        <entry key="UZBEK" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="GREEK" value="2" />
+        <entry key="ITALIAN" value="5" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633951804826" />
+    <option name="lastTrimTime" value="1633767473796" />
   </component>
 </application>
