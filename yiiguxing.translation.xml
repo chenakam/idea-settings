@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="tends" />
+      <item value="Norms Normal" />
       <item value="disabled" />
       <item value="Eligible" />
       <item value="emergency" />
@@ -51,13 +53,11 @@
       <item value="判断标准" />
       <item value="Quota" />
       <item value="append" />
-      <item value="cond" />
-      <item value="Morphology" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="CHINESE" value="785" />
+        <entry key="ENGLISH" value="786" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="4" />
@@ -83,6 +83,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632001889479" />
+    <option name="lastTrimTime" value="1633767473796" />
   </component>
 </application>
