@@ -2,6 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/i_l_ff_wallets_home.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/i_l_ff_wallets_home_4_send.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/i_l_order_plan.xml" value="0.21503306346488904" />
         <entry key="src/main/res/drawable/bg_black_a2p_r8_s.xml" value="0.2831223628691983" />
         <entry key="src/main/res/drawable/bg_yellow_f0_a1p_r12_s.xml" value="0.2831223628691983" />
         <entry key="src/main/res/drawable/btn_blue_0f_r27_s.xml" value="0.2831223628691983" />
