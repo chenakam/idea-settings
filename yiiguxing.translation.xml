@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Planing" />
+      <item value="Planning" />
       <item value="Contrast" />
       <item value="fac Contrast" />
       <item value="factor" />
@@ -51,13 +53,11 @@
       <item value="Rateable" />
       <item value="Nor" />
       <item value="Norms" />
-      <item value="Countable" />
-      <item value="Norm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="788" />
+        <entry key="CHINESE" value="789" />
+        <entry key="ENGLISH" value="790" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="4" />
