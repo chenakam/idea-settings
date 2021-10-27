@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Skew" />
       <item value="x Skew" />
       <item value="ambush" />
       <item value="emergency" />
@@ -52,12 +53,11 @@
       <item value="toler" />
       <item value="abide" />
       <item value="brook" />
-      <item value="resolve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
-        <entry key="ENGLISH" value="799" />
+        <entry key="CHINESE" value="799" />
+        <entry key="ENGLISH" value="800" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="4" />
