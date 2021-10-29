@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="before Prev" />
+      <item value="time Before Previous" />
+      <item value="after Prev" />
       <item value="obdt Reverse" />
       <item value="Skew" />
       <item value="x Skew" />
@@ -50,14 +53,11 @@
       <item value="is Tole" />
       <item value="tolerate" />
       <item value="Tole" />
-      <item value="Abide" />
-      <item value="toler" />
-      <item value="abide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="800" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="CHINESE" value="803" />
+        <entry key="ENGLISH" value="804" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="4" />
