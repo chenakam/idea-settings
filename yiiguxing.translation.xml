@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="seal" />
       <item value="consult" />
       <item value="参考" />
       <item value="convert" />
@@ -52,12 +53,11 @@
       <item value="is Tolerable" />
       <item value="is It Tolerable" />
       <item value="is Tolerate" />
-      <item value="is Tole" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="802" />
-        <entry key="ENGLISH" value="802" />
+        <entry key="ENGLISH" value="803" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="4" />
