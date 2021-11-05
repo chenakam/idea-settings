@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="trad Time" />
+      <item value="tradable" />
+      <item value="treatable" />
+      <item value="Coin Instant" />
+      <item value="Assets Instant" />
+      <item value="Assert Instant" />
+      <item value="Coin Instant State" />
+      <item value="Token State" />
+      <item value="Funds Info" />
       <item value="base Refered" />
       <item value="seal" />
       <item value="consult" />
@@ -44,20 +53,11 @@
       <item value="Drag" />
       <item value="Draggable" />
       <item value="Dragable" />
-      <item value="reserved" />
-      <item value="baffle" />
-      <item value="Barrier" />
-      <item value="barrier" />
-      <item value="Mpa" />
-      <item value="Priceable" />
-      <item value="tole" />
-      <item value="is Tolerable" />
-      <item value="is It Tolerable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="804" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="815" />
+        <entry key="ENGLISH" value="816" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="4" />
