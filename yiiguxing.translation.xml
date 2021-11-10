@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="最小下单量的倍数" />
       <item value="dose Amt" />
       <item value="Funds Instant" />
       <item value="trad Time" />
@@ -52,12 +53,11 @@
       <item value="baulk" />
       <item value="Baulk" />
       <item value="阻力值" />
-      <item value="Drag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="817" />
-        <entry key="ENGLISH" value="817" />
+        <entry key="CHINESE" value="818" />
+        <entry key="ENGLISH" value="818" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="4" />
