@@ -3,56 +3,56 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
-      <item value="expired" />
-      <item value="及时地" />
-      <item value="sell Additional" />
-      <item value="lever Not Supported" />
-      <item value="provisional" />
-      <item value="暂时" />
-      <item value="Lever" />
-      <item value="现货交易" />
-      <item value="dose" />
-      <item value="analysis" />
-      <item value="already Exists 0" />
-      <item value="duplicate" />
-      <item value="重复" />
-      <item value="verify" />
-      <item value="校验" />
-      <item value="examine" />
-      <item value="condos" />
-      <item value="per" />
-      <item value="lever" />
-      <item value="leverage" />
-      <item value="杠杆" />
-      <item value="Accessibility" />
-      <item value="purify" />
-      <item value="Ast" />
-      <item value="earliest" />
-      <item value="before Prev" />
-      <item value="time Before Previous" />
-      <item value="after Prev" />
-      <item value="obdt Reverse" />
-      <item value="Skew" />
-      <item value="x Skew" />
-      <item value="ambush" />
-      <item value="emergency" />
-      <item value="Steep" />
-      <item value="earlist" />
-      <item value="optimized" />
-      <item value="appended" />
-      <item value="Mode" />
-      <item value="gen Tem" />
-      <item value="gen Temp" />
-      <item value="临时生成" />
-      <item value="Trends" />
+      <item value="usdt May Use" />
+      <item value="usdt Used" />
+      <item value="usdt Usage" />
+      <item value="planing" />
+      <item value="planning" />
+      <item value="最小下单量的倍数" />
+      <item value="dose Amt" />
+      <item value="Funds Instant" />
+      <item value="trad Time" />
+      <item value="tradable" />
+      <item value="treatable" />
+      <item value="Coin Instant" />
+      <item value="Assets Instant" />
+      <item value="Assert Instant" />
+      <item value="Coin Instant State" />
+      <item value="Token State" />
+      <item value="Funds Info" />
+      <item value="base Refered" />
+      <item value="seal" />
+      <item value="consult" />
+      <item value="参考" />
+      <item value="convert" />
+      <item value="parent" />
+      <item value="again" />
+      <item value="comment" />
+      <item value="discover Exactly" />
+      <item value="Exactly" />
+      <item value="Exactlly" />
+      <item value="integrate" />
+      <item value="Calm" />
+      <item value="near" />
+      <item value="temporal" />
+      <item value="Const" />
+      <item value="Planing" />
+      <item value="Planning" />
+      <item value="Contrast" />
+      <item value="fac Contrast" />
+      <item value="factor" />
       <item value="tends" />
       <item value="Norms Normal" />
       <item value="disabled" />
       <item value="Eligible" />
+      <item value="emergency" />
       <item value="variant" />
       <item value="Underlying" />
       <item value="Distinguish" />
       <item value="leak Args" />
+      <item value="norms" />
+      <item value="pragma" />
+      <item value="Obstinacy" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,7 @@
         <entry key="CATALAN" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="2" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="7" />
@@ -83,6 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636448943452" />
+    <option name="lastTrimTime" value="1636524109785" />
   </component>
 </application>
