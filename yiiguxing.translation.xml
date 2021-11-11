@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="唯一ID" />
       <item value="required Pricing" />
       <item value="大概需要的计价币" />
       <item value="usdt May Use" />
@@ -52,11 +53,10 @@
       <item value="Underlying" />
       <item value="Distinguish" />
       <item value="leak Args" />
-      <item value="norms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="825" />
+        <entry key="CHINESE" value="826" />
         <entry key="ENGLISH" value="826" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
