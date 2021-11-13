@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="允许" />
+      <item value="gape" />
+      <item value="gap" />
+      <item value="gap Multi" />
+      <item value="gap Muti" />
       <item value="Margin" />
       <item value="唯一ID" />
       <item value="required Pricing" />
@@ -48,16 +53,11 @@
       <item value="tends" />
       <item value="Norms Normal" />
       <item value="disabled" />
-      <item value="Eligible" />
-      <item value="emergency" />
-      <item value="variant" />
-      <item value="Underlying" />
-      <item value="Distinguish" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="CHINESE" value="830" />
+        <entry key="ENGLISH" value="830" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
