@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="检测" />
       <item value="accuracy" />
       <item value="precision" />
       <item value="精确度" />
@@ -52,11 +53,10 @@
       <item value="integrate" />
       <item value="Calm" />
       <item value="near" />
-      <item value="temporal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="838" />
+        <entry key="CHINESE" value="839" />
         <entry key="ENGLISH" value="839" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
