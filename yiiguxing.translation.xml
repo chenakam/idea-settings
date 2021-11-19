@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="lately" />
+      <item value="recently" />
       <item value="变换" />
       <item value="expect Continuously Rof Time" />
       <item value="continuously" />
@@ -51,13 +53,11 @@
       <item value="tradable" />
       <item value="treatable" />
       <item value="Coin Instant" />
-      <item value="Assets Instant" />
-      <item value="Assert Instant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="852" />
-        <entry key="ENGLISH" value="852" />
+        <entry key="CHINESE" value="853" />
+        <entry key="ENGLISH" value="854" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
