@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Price overlap" />
+      <item value="价格重叠" />
       <item value="lately" />
       <item value="recently" />
       <item value="变换" />
@@ -51,13 +53,11 @@
       <item value="Funds Instant" />
       <item value="trad Time" />
       <item value="tradable" />
-      <item value="treatable" />
-      <item value="Coin Instant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="853" />
-        <entry key="ENGLISH" value="854" />
+        <entry key="CHINESE" value="857" />
+        <entry key="ENGLISH" value="856" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
