@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Trend Ops" />
+      <item value="trend Ops" />
+      <item value="analysis" />
+      <item value="Order Ops" />
       <item value="Trends" />
       <item value="term" />
       <item value="thin" />
@@ -49,15 +53,11 @@
       <item value="Sy" />
       <item value="S" />
       <item value="Su" />
-      <item value="All orders have been completed simultaneously" />
-      <item value="所有订单已同步完成" />
-      <item value="订单同步完成" />
-      <item value="Submitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="916" />
-        <entry key="ENGLISH" value="917" />
+        <entry key="CHINESE" value="921" />
+        <entry key="ENGLISH" value="922" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
