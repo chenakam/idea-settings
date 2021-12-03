@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="pricing Cash" />
+      <item value="Abs Cash Group" />
       <item value="fixed" />
       <item value="auto Detect Refresh Token Support" />
       <item value="Trend Ops" />
@@ -51,13 +53,11 @@
       <item value="Synced All" />
       <item value="Synced A" />
       <item value="Synced " />
-      <item value="Sync" />
-      <item value="Sy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="923" />
-        <entry key="ENGLISH" value="924" />
+        <entry key="CHINESE" value="925" />
+        <entry key="ENGLISH" value="926" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
