@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="operate" />
+      <item value="临时地" />
+      <item value="Javadoc change to recommend against using SoftReferences for caches." />
+      <item value="More precisely, the presence of a mapping for a given key will not prevent the key from being discarded by the garbage collector, that is, made finalizable, finalized, and then reclaimed." />
+      <item value="its key is no longer in ordinary use" />
+      <item value="ordinary" />
       <item value="Unsubmitted" />
       <item value="submitted" />
       <item value="committed" />
@@ -47,17 +53,11 @@
       <item value="Initialize failed" />
       <item value="正在初始化" />
       <item value="初始化失败" />
-      <item value="Orders synchronized" />
-      <item value="订单已同步" />
-      <item value="Orders synced" />
-      <item value="All orders synced" />
-      <item value="All Orders Synced" />
-      <item value="All Order Synced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="934" />
-        <entry key="ENGLISH" value="935" />
+        <entry key="CHINESE" value="942" />
+        <entry key="ENGLISH" value="943" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
