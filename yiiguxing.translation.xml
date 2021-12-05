@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="is Assignable From" />
       <item value="operate" />
       <item value="临时地" />
       <item value="Javadoc change to recommend against using SoftReferences for caches." />
@@ -52,12 +53,11 @@
       <item value="Initialize" />
       <item value="Initialize failed" />
       <item value="正在初始化" />
-      <item value="初始化失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="942" />
-        <entry key="ENGLISH" value="943" />
+        <entry key="CHINESE" value="943" />
+        <entry key="ENGLISH" value="944" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
