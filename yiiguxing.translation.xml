@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Unsubmitted" />
+      <item value="submitted" />
+      <item value="committed" />
+      <item value="commited" />
       <item value="Expired" />
       <item value="sort out" />
       <item value="整理" />
@@ -49,15 +53,11 @@
       <item value="All orders synced" />
       <item value="All Orders Synced" />
       <item value="All Order Synced" />
-      <item value="All Order Sync" />
-      <item value="All Order Syn" />
-      <item value="All Order S" />
-      <item value="All Order " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="930" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="934" />
+        <entry key="ENGLISH" value="935" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
