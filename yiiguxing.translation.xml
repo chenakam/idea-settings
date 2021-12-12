@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="obiter" />
       <item value="solver" />
       <item value="Outdated" />
       <item value="Candle Stick Outdated" />
@@ -52,11 +53,10 @@
       <item value="minutely" />
       <item value="deadline" />
       <item value="Distinguish" />
-      <item value="NSGA 2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
+        <entry key="CHINESE" value="959" />
         <entry key="ENGLISH" value="959" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
@@ -67,7 +67,7 @@
         <entry key="DUTCH" value="4" />
         <entry key="CATALAN" value="2" />
         <entry key="CROATIAN" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
