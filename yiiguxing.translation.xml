@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Minimal Efficient" />
+      <item value="Min And Efficient" />
+      <item value="tx Pairs Min And Efficient" />
+      <item value="tx Pairs Minimal Efficient" />
+      <item value="Minimal" />
       <item value="Rtl Symmetry" />
       <item value="obiter" />
       <item value="solver" />
@@ -48,16 +53,11 @@
       <item value="Trends" />
       <item value="term" />
       <item value="thin" />
-      <item value="细" />
-      <item value="xi" />
-      <item value="x" />
-      <item value="minutely" />
-      <item value="deadline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="959" />
-        <entry key="ENGLISH" value="960" />
+        <entry key="CHINESE" value="964" />
+        <entry key="ENGLISH" value="965" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
