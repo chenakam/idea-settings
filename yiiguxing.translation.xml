@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="previous" />
+      <item value="prevous" />
       <item value="batch Orders" />
       <item value="caught" />
       <item value="Pure" />
@@ -51,17 +53,15 @@
       <item value="submitted" />
       <item value="committed" />
       <item value="commited" />
-      <item value="Expired" />
-      <item value="sort out" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="978" />
+        <entry key="CHINESE" value="980" />
         <entry key="ENGLISH" value="979" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
-        <entry key="FRENCH" value="9" />
+        <entry key="FRENCH" value="10" />
         <entry key="FILIPINO" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="4" />
