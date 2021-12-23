@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="meshed Tactics" />
       <item value="previous" />
       <item value="prevous" />
       <item value="batch Orders" />
@@ -13,7 +14,6 @@
       <item value="update Untradeable" />
       <item value="fina" />
       <item value="regenerates" />
-      <item value="meshed Tactics" />
       <item value="that prevents Room from being incremental" />
       <item value="Unexpected" />
       <item value="Should Support" />
@@ -57,7 +57,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="980" />
-        <entry key="ENGLISH" value="979" />
+        <entry key="ENGLISH" value="980" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
