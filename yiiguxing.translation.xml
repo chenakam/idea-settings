@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="back Test" />
       <item value="meshed Tactics" />
       <item value="previous" />
       <item value="prevous" />
@@ -52,12 +53,11 @@
       <item value="Unsubmitted" />
       <item value="submitted" />
       <item value="committed" />
-      <item value="commited" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="980" />
-        <entry key="ENGLISH" value="980" />
+        <entry key="ENGLISH" value="981" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
