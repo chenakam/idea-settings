@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="high frequency" />
+      <item value="高频" />
+      <item value="meshed" />
+      <item value="Tactics" />
       <item value="experimental" />
       <item value="back Test" />
       <item value="meshed Tactics" />
@@ -49,15 +53,11 @@
       <item value="临时地" />
       <item value="Javadoc change to recommend against using SoftReferences for caches." />
       <item value="More precisely, the presence of a mapping for a given key will not prevent the key from being discarded by the garbage collector, that is, made finalizable, finalized, and then reclaimed." />
-      <item value="its key is no longer in ordinary use" />
-      <item value="ordinary" />
-      <item value="Unsubmitted" />
-      <item value="submitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="981" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="985" />
+        <entry key="ENGLISH" value="985" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
