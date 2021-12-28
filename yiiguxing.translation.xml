@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="deal" />
       <item value="Track" />
       <item value="high frequency" />
       <item value="高频" />
@@ -52,12 +53,11 @@
       <item value="is Assignable From" />
       <item value="operate" />
       <item value="临时地" />
-      <item value="Javadoc change to recommend against using SoftReferences for caches." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="985" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="CHINESE" value="986" />
+        <entry key="ENGLISH" value="987" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
