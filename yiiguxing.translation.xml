@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="try On" />
       <item value="work May Not Do" />
       <item value="Snatcher" />
       <item value="snatcher" />
@@ -52,12 +53,11 @@
       <item value="obiter" />
       <item value="solver" />
       <item value="Outdated" />
-      <item value="Candle Stick Outdated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="999" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
