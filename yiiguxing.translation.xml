@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Snatcher" />
+      <item value="snatcher" />
       <item value="visibility Wait" />
       <item value="visible Wait" />
       <item value="depth" />
@@ -51,18 +53,16 @@
       <item value="Outdated" />
       <item value="Candle Stick Outdated" />
       <item value="actual" />
-      <item value="实际" />
-      <item value="expect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="997" />
+        <entry key="CHINESE" value="998" />
         <entry key="ENGLISH" value="998" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="10" />
-        <entry key="FILIPINO" value="2" />
+        <entry key="FILIPINO" value="4" />
         <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="4" />
         <entry key="CATALAN" value="2" />
