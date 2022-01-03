@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="monitor" />
+      <item value="卡住" />
       <item value="May" />
       <item value="update Runner End Flag May Cas Wait" />
       <item value="Wait" />
@@ -51,13 +53,11 @@
       <item value="Durable" />
       <item value="Consistent" />
       <item value="revoke" />
-      <item value="Currently" />
-      <item value="all Tx Pairs Currently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="991" />
-        <entry key="ENGLISH" value="992" />
+        <entry key="CHINESE" value="992" />
+        <entry key="ENGLISH" value="993" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
