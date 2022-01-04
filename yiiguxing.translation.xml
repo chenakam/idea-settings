@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="obtain Key" />
+      <item value="resolve Key" />
+      <item value="retrieve Key" />
+      <item value="solve Key" />
       <item value="do Work" />
       <item value="do sth officially" />
       <item value="officially" />
@@ -49,15 +53,11 @@
       <item value="that prevents Room from being incremental" />
       <item value="Unexpected" />
       <item value="Should Support" />
-      <item value="load Tx Pairs Should Support" />
-      <item value="reasoning" />
-      <item value="Planning" />
-      <item value="Minimal Efficient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1006" />
-        <entry key="ENGLISH" value="1007" />
+        <entry key="CHINESE" value="1011" />
+        <entry key="ENGLISH" value="1012" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
