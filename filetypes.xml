@@ -5,7 +5,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="jnilib" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
