@@ -1,65 +1,64 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="661" />
-    <option name="newTranslationDialogX" value="889" />
-    <option name="newTranslationDialogY" value="146" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogX" value="558" />
+    <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="instruction" />
-      <item value="说明" />
-      <item value="一些说明" />
-      <item value="some instructions" />
-      <item value="yi'x说明" />
-      <item value="yi说明" />
-      <item value="操作说明" />
-      <item value="可用于采用类 jvm 的任何平台，例如: android runtime." />
-      <item value="可用于采用类 jvm 的任何平台，例如 android runtime." />
-      <item value="可用于采用类 jvm 的任何平台，例如 android runtime" />
-      <item value="可用于采用类 jvm 的任何平台，例如 android run" />
-      <item value="可用于采用类 jvm 的任何平台，例如 android" />
-      <item value="可用于采用类 jvm 的任何平台，例如 " />
-      <item value="可用于采用类 jvm 的任何平台，例如" />
-      <item value="可用于采用类 jvm 的任何平台，li" />
-      <item value="可用于采用类 jvm 的任何平台，" />
-      <item value="可用于采用类 jvm 的任何平台," />
-      <item value="可用于采用类 jvm 的任何平台" />
-      <item value="可用于采用类 jvm 的任何平台。" />
-      <item value="可用于采用 jvm 的任何平台。" />
-      <item value="可用于采用lei jvm 的任何平台。" />
-      <item value="将根据需要自动转义" />
-      <item value="will be automatically escaped as needed" />
-      <item value="会自动 按需 转义" />
-      <item value="简写" />
-      <item value="本框架完全采用 Scala 语言编写，参数都支持简写" />
-      <item value="本框架完全采用 Scala 语言编写，参数都支持简写]" />
-      <item value="本框架完全采用 Scala 语言编写，参数都支持 简写]" />
-      <item value="本框架完全采用 Scala 语言编写，参数都支持 [简写]" />
-      <item value="详见代码文档" />
-      <item value="这个框架基于一个特殊的抗阻塞线程同步工具" />
-      <item value="This framework base on a special anti-blocking_thread synchronization_ tool" />
-      <item value="This framework base a special anti-blocking_thread synchronization_ tool" />
-      <item value="This framework derives a special anti-blocking_thread synchronization_ tool" />
-      <item value="本框架衍生了一个特别的 抗阻塞_线程同步_ 工具" />
-      <item value="它不符合这个框架的设计目标: 无锁的。" />
-      <item value="它不符合这个框架的设计目标:无锁的。" />
-      <item value="它不符合这个框架的设计目标，它是无锁的。" />
-      <item value="It doesn't meet the design goal of this framework witch is lock-free." />
-      <item value="It doesn't meet the design goal of this framework witch lock-free." />
-      <item value="It doesn't meet the design goal of this framework witch: lock-free." />
-      <item value="It doesn't meet the design goal of this framework wi: lock-free." />
-      <item value="It doesn't meet the design goal of this framework : lock-free." />
-      <item value="It doesn't meet the design goal of this framework: lock-free." />
-      <item value="它不符合这个框架的设计目标：无锁。" />
-      <item value="It does not meet the design goal of this framework: lock-free." />
-      <item value="它不符合本框架的设计目标：lock-free。" />
-      <item value="它不符合本框架的设计目标：lock-f。" />
-      <item value="它不符合本框架的设计目标：lock-。" />
-      <item value="它不符合本框架的设计目标：lock。" />
+      <item value="rigorous" />
+      <item value="本框架的主要功能类似" />
+      <item value="Related" />
+      <item value="相关" />
+      <item value="这个基本逻辑" />
+      <item value="空闲释放线程" />
+      <item value="Otherwise enqueue" />
+      <item value="or else insert queue" />
+      <item value="insert queue" />
+      <item value="插入队列" />
+      <item value="or else 插入队列" />
+      <item value="cha" />
+      <item value="ch" />
+      <item value="则" />
+      <item value="否" />
+      <item value="否则" />
+      <item value="否则插入队列" />
+      <item value="否则插入队列 " />
+      <item value="fou插入队列" />
+      <item value="或插入队列" />
+      <item value="or insert into the queue" />
+      <item value="or 插入队列" />
+      <item value="再插入队列" />
+      <item value="再插入队liu" />
+      <item value="再插入队d" />
+      <item value="再插入队" />
+      <item value="再插入排队" />
+      <item value="再cha排队" />
+      <item value="再排队" />
+      <item value="zai排队" />
+      <item value="za排队" />
+      <item value="重新排队" />
+      <item value="re-queue" />
+      <item value="再入队列" />
+      <item value="首先将线程数增加到最大" />
+      <item value="First increase the number of threads to the maximum" />
+      <item value="先增加线程数到最大" />
+      <item value="先增加线程数到 最大" />
+      <item value="先增加线程数到 [最大" />
+      <item value="先增加线程数到 [最大]" />
+      <item value="以确保" />
+      <item value="to ensuring" />
+      <item value="to ensur" />
+      <item value="to ensure" />
+      <item value="to ensue" />
+      <item value="to ensu" />
+      <item value="to ens" />
+      <item value="conform" />
+      <item value="To conform" />
+      <item value="以符合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1080" />
-        <entry key="ENGLISH" value="1076" />
+        <entry key="CHINESE" value="1093" />
+        <entry key="ENGLISH" value="1091" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
