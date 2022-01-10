@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="558" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="enqueued" />
+      <item value="efficient utilization" />
       <item value="这需要用户定义的任务中无阻塞（若有阻塞可以拆分成多个有依赖关系但无阻塞的任务，网络请求除外）。" />
       <item value="rigorous" />
       <item value="本框架的主要功能类似" />
@@ -52,8 +54,6 @@
       <item value="to ensue" />
       <item value="to ensu" />
       <item value="to ens" />
-      <item value="conform" />
-      <item value="To conform" />
     </histories>
     <option name="languageScores">
       <map>
