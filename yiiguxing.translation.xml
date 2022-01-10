@@ -1,63 +1,65 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="688" />
-    <option name="newTranslationDialogY" value="321" />
+    <option name="newTranslationDialogWidth" value="661" />
+    <option name="newTranslationDialogX" value="889" />
+    <option name="newTranslationDialogY" value="146" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Additional, refer to" />
-      <item value="`Serial` mix in `Parallel`" />
-      <item value="Serial mix in Parallel" />
-      <item value="混入" />
-      <item value="`[Serial/ Parallel]` Tasks Mixed Assembly" />
-      <item value="`[Serial/ Parallel] Tasks Mixed Assembly" />
-      <item value="`[Serial/ Parallel]  Tasks Mixed Assembly" />
-      <item value="`[Serial/ Parallel] Parallel Tasks Mixed Assembly" />
-      <item value="`[Serial and Parallel] Parallel Tasks Mixed Assembly" />
-      <item value="`【串并】行任务`混合组装" />
-      <item value="refer" />
-      <item value="A light-weight lock-free Task `seriesparallel` combined scheduling framework" />
-      <item value="Task `series-parallel` combined scheduling framework" />
-      <item value="任务`串并联`组合调度框架" />
-      <item value="lightweight" />
-      <item value="light-weight" />
-      <item value="Monad" />
-      <item value="lowest One Bit" />
-      <item value="number Of Leading Zeros" />
-      <item value="number Of Trailing Zeros" />
-      <item value="in the two's complement binary" />
-      <item value="one-bits" />
-      <item value="complement" />
-      <item value="increment" />
-      <item value="Javadoc change to recommend against using SoftReferences for caches" />
-      <item value="hash-consing" />
-      <item value="eligible" />
-      <item value="Eventually" />
-      <item value="accumulate" />
-      <item value="free-lock" />
-      <item value="stable" />
-      <item value="稳定" />
-      <item value="volatile" />
-      <item value="hash-trie" />
-      <item value="trie" />
-      <item value="reentrant" />
-      <item value="obtain Key" />
-      <item value="resolve Key" />
-      <item value="retrieve Key" />
-      <item value="solve Key" />
-      <item value="do Work" />
-      <item value="do sth officially" />
-      <item value="officially" />
-      <item value="正式地" />
-      <item value="as Var May Not Vis To B" />
-      <item value="a Car May Not Visit To B" />
-      <item value="a Var May Not Vis To B" />
-      <item value="a Var May Not Visible B" />
-      <item value="try On" />
-      <item value="work May Not Do" />
+      <item value="instruction" />
+      <item value="说明" />
+      <item value="一些说明" />
+      <item value="some instructions" />
+      <item value="yi'x说明" />
+      <item value="yi说明" />
+      <item value="操作说明" />
+      <item value="可用于采用类 jvm 的任何平台，例如: android runtime." />
+      <item value="可用于采用类 jvm 的任何平台，例如 android runtime." />
+      <item value="可用于采用类 jvm 的任何平台，例如 android runtime" />
+      <item value="可用于采用类 jvm 的任何平台，例如 android run" />
+      <item value="可用于采用类 jvm 的任何平台，例如 android" />
+      <item value="可用于采用类 jvm 的任何平台，例如 " />
+      <item value="可用于采用类 jvm 的任何平台，例如" />
+      <item value="可用于采用类 jvm 的任何平台，li" />
+      <item value="可用于采用类 jvm 的任何平台，" />
+      <item value="可用于采用类 jvm 的任何平台," />
+      <item value="可用于采用类 jvm 的任何平台" />
+      <item value="可用于采用类 jvm 的任何平台。" />
+      <item value="可用于采用 jvm 的任何平台。" />
+      <item value="可用于采用lei jvm 的任何平台。" />
+      <item value="将根据需要自动转义" />
+      <item value="will be automatically escaped as needed" />
+      <item value="会自动 按需 转义" />
+      <item value="简写" />
+      <item value="本框架完全采用 Scala 语言编写，参数都支持简写" />
+      <item value="本框架完全采用 Scala 语言编写，参数都支持简写]" />
+      <item value="本框架完全采用 Scala 语言编写，参数都支持 简写]" />
+      <item value="本框架完全采用 Scala 语言编写，参数都支持 [简写]" />
+      <item value="详见代码文档" />
+      <item value="这个框架基于一个特殊的抗阻塞线程同步工具" />
+      <item value="This framework base on a special anti-blocking_thread synchronization_ tool" />
+      <item value="This framework base a special anti-blocking_thread synchronization_ tool" />
+      <item value="This framework derives a special anti-blocking_thread synchronization_ tool" />
+      <item value="本框架衍生了一个特别的 抗阻塞_线程同步_ 工具" />
+      <item value="它不符合这个框架的设计目标: 无锁的。" />
+      <item value="它不符合这个框架的设计目标:无锁的。" />
+      <item value="它不符合这个框架的设计目标，它是无锁的。" />
+      <item value="It doesn't meet the design goal of this framework witch is lock-free." />
+      <item value="It doesn't meet the design goal of this framework witch lock-free." />
+      <item value="It doesn't meet the design goal of this framework witch: lock-free." />
+      <item value="It doesn't meet the design goal of this framework wi: lock-free." />
+      <item value="It doesn't meet the design goal of this framework : lock-free." />
+      <item value="It doesn't meet the design goal of this framework: lock-free." />
+      <item value="它不符合这个框架的设计目标：无锁。" />
+      <item value="It does not meet the design goal of this framework: lock-free." />
+      <item value="它不符合本框架的设计目标：lock-free。" />
+      <item value="它不符合本框架的设计目标：lock-f。" />
+      <item value="它不符合本框架的设计目标：lock-。" />
+      <item value="它不符合本框架的设计目标：lock。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1039" />
-        <entry key="ENGLISH" value="1040" />
+        <entry key="CHINESE" value="1080" />
+        <entry key="ENGLISH" value="1076" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
