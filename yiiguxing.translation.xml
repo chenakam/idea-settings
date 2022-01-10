@@ -3,6 +3,17 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Additional, refer to" />
+      <item value="`Serial` mix in `Parallel`" />
+      <item value="Serial mix in Parallel" />
+      <item value="混入" />
+      <item value="`[Serial/ Parallel]` Tasks Mixed Assembly" />
+      <item value="`[Serial/ Parallel] Tasks Mixed Assembly" />
+      <item value="`[Serial/ Parallel]  Tasks Mixed Assembly" />
+      <item value="`[Serial/ Parallel] Parallel Tasks Mixed Assembly" />
+      <item value="`[Serial and Parallel] Parallel Tasks Mixed Assembly" />
+      <item value="`【串并】行任务`混合组装" />
+      <item value="refer" />
       <item value="A light-weight lock-free Task `seriesparallel` combined scheduling framework" />
       <item value="Task `series-parallel` combined scheduling framework" />
       <item value="任务`串并联`组合调度框架" />
@@ -42,22 +53,11 @@
       <item value="a Var May Not Visible B" />
       <item value="try On" />
       <item value="work May Not Do" />
-      <item value="Snatcher" />
-      <item value="snatcher" />
-      <item value="visibility Wait" />
-      <item value="visible Wait" />
-      <item value="depth" />
-      <item value="Sensitive" />
-      <item value="Reachability Sensitive" />
-      <item value="monitor" />
-      <item value="卡住" />
-      <item value="May" />
-      <item value="update Runner End Flag May Cas Wait" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1034" />
-        <entry key="ENGLISH" value="1034" />
+        <entry key="CHINESE" value="1039" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
