@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="688" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="A light-weight lock-free Task `seriesparallel` combined scheduling framework" />
+      <item value="Task `series-parallel` combined scheduling framework" />
+      <item value="任务`串并联`组合调度框架" />
+      <item value="lightweight" />
+      <item value="light-weight" />
       <item value="Monad" />
       <item value="lowest One Bit" />
       <item value="number Of Leading Zeros" />
@@ -48,16 +53,11 @@
       <item value="卡住" />
       <item value="May" />
       <item value="update Runner End Flag May Cas Wait" />
-      <item value="Wait" />
-      <item value="Cas Wait" />
-      <item value="update Runner End May Cas Wait" />
-      <item value="deal" />
-      <item value="Track" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1029" />
-        <entry key="ENGLISH" value="1030" />
+        <entry key="CHINESE" value="1034" />
+        <entry key="ENGLISH" value="1034" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
