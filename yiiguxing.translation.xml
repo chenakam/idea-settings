@@ -1,9 +1,32 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="661" />
-    <option name="newTranslationDialogX" value="558" />
+    <option name="newTranslationDialogWidth" value="1175" />
+    <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="In Reflow basic logic," />
+      <item value="In addition to simplifying the coding complexity, the established framework can standardize the original chaotic and intricate writing method, and coding errors can be easily detected, which will greatly enhance the readability, robustness and scalability of the program." />
+      <item value="那么我们该如何抽象并简化如此复杂的问题呢？" />
+      <item value="On the other hand, if this large amount of &quot;jobs&quot; is not organized reasonably and effectively, the execution time overall and performance are also worrying." />
+      <item value="So how do we abstract and simplify this complex logic?" />
+      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the execution time overall and performance are also worrying." />
+      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the execution time and performance are also worrying." />
+      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the  execution time and performance are also worrying." />
+      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the overall execution time and performance are also worrying." />
+      <item value="On the other hand, if th large amount of work is not organized reasonably and effectively, the overall execution time and performance are also worrying." />
+      <item value="On the other hand, if the large amount of work is not organized reasonably and effectively, the overall execution time and performance are also worrying." />
+      <item value="On the other hand, if t'he large amount of work is not organized reasonably and effectively, the overall execution time and performance are also worrying." />
+      <item value="On the other hand, if t'h large amount of work is not organized reasonably and effectively, the overall execution time and performance are also worrying." />
+      <item value="另一方面，如果没有把这大量的工作合理有效地组织起来，总体执行时间和性能也是堪忧的。" />
+      <item value="In a large system, there is often a lot of business logic and control logic, which is the embodiment of hundreds of &quot;jobs.&quot;" />
+      <item value="The relationship between tasks can also be further classified into two types: _dependent_ and _non-dependent_, that is, serial and parallel (dependent tasks must be executed sequentially, and non-dependent tasks can be executed in parallel). The user programmer only needs to focus on writing task one by one and leave the rest to the framework. Reflow is designed around the control logic that handles these tasks." />
+      <item value="Inspired by this idea, we can separate the business logic from the control logic, abstract the control logic as a framework, and construct the business logic as a Task." />
+      <item value="The logic is intertwined and, taken as a whole, often intricate." />
+      <item value="A light-weight lock-free `seriesparallel` combined scheduling framework for tasks. The goal is to maximize parallelism in order to minimize the execution time overall." />
+      <item value="combined" />
+      <item value="combined scheduling framework" />
+      <item value="combine scheduling framework" />
+      <item value="combine" />
       <item value="Our Standards" />
       <item value="These features greatly meet the practical requirements of various projects." />
       <item value="unified operation [scheduling]" />
@@ -31,34 +54,11 @@
       <item value="fou插入队列" />
       <item value="或插入队列" />
       <item value="or insert into the queue" />
-      <item value="or 插入队列" />
-      <item value="再插入队列" />
-      <item value="再插入队liu" />
-      <item value="再插入队d" />
-      <item value="再插入队" />
-      <item value="再插入排队" />
-      <item value="再cha排队" />
-      <item value="再排队" />
-      <item value="zai排队" />
-      <item value="za排队" />
-      <item value="重新排队" />
-      <item value="re-queue" />
-      <item value="再入队列" />
-      <item value="首先将线程数增加到最大" />
-      <item value="First increase the number of threads to the maximum" />
-      <item value="先增加线程数到最大" />
-      <item value="先增加线程数到 最大" />
-      <item value="先增加线程数到 [最大" />
-      <item value="先增加线程数到 [最大]" />
-      <item value="以确保" />
-      <item value="to ensuring" />
-      <item value="to ensur" />
-      <item value="to ensure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1093" />
-        <entry key="ENGLISH" value="1092" />
+        <entry key="CHINESE" value="1107" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
