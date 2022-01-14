@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="发现有多余的" />
       <item value="In Reflow basic logic," />
       <item value="In addition to simplifying the coding complexity, the established framework can standardize the original chaotic and intricate writing method, and coding errors can be easily detected, which will greatly enhance the readability, robustness and scalability of the program." />
       <item value="那么我们该如何抽象并简化如此复杂的问题呢？" />
@@ -53,11 +54,10 @@
       <item value="否则插入队列 " />
       <item value="fou插入队列" />
       <item value="或插入队列" />
-      <item value="or insert into the queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1107" />
+        <entry key="CHINESE" value="1108" />
         <entry key="ENGLISH" value="1108" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
@@ -85,6 +85,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641544436270" />
+    <option name="lastTrimTime" value="1642172255926" />
   </component>
 </application>
