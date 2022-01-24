@@ -87,4 +87,7 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1642838707399" />
   </component>
+  <component name="Settings">
+    <option name="showReplacementActionInContextMenu" value="true" />
+  </component>
 </application>
