@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Crux" />
       <item value="dis Burden" />
       <item value="disburden" />
       <item value="unburden" />
@@ -53,12 +54,11 @@
       <item value="On the other hand, if t'h large amount of work is not organized reasonably and effectively, the overall execution time and performance are also worrying." />
       <item value="另一方面，如果没有把这大量的工作合理有效地组织起来，总体执行时间和性能也是堪忧的。" />
       <item value="In a large system, there is often a lot of business logic and control logic, which is the embodiment of hundreds of &quot;jobs.&quot;" />
-      <item value="The relationship between tasks can also be further classified into two types: _dependent_ and _non-dependent_, that is, serial and parallel (dependent tasks must be executed sequentially, and non-dependent tasks can be executed in parallel). The user programmer only needs to focus on writing task one by one and leave the rest to the framework. Reflow is designed around the control logic that handles these tasks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1140" />
-        <entry key="ENGLISH" value="1141" />
+        <entry key="CHINESE" value="1142" />
+        <entry key="ENGLISH" value="1143" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
