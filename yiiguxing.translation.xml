@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="no Trade" />
+      <item value="no trade" />
+      <item value="notrade" />
+      <item value="trade" />
+      <item value="交易" />
+      <item value="j" />
+      <item value="tx" />
+      <item value="no Tx" />
       <item value="Oscil" />
       <item value="Norms" />
       <item value="Crux" />
@@ -46,19 +54,11 @@
       <item value="time Limit Level" />
       <item value="发现有多余的" />
       <item value="In Reflow basic logic," />
-      <item value="In addition to simplifying the coding complexity, the established framework can standardize the original chaotic and intricate writing method, and coding errors can be easily detected, which will greatly enhance the readability, robustness and scalability of the program." />
-      <item value="那么我们该如何抽象并简化如此复杂的问题呢？" />
-      <item value="On the other hand, if this large amount of &quot;jobs&quot; is not organized reasonably and effectively, the execution time overall and performance are also worrying." />
-      <item value="So how do we abstract and simplify this complex logic?" />
-      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the execution time overall and performance are also worrying." />
-      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the execution time and performance are also worrying." />
-      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the  execution time and performance are also worrying." />
-      <item value="On the other hand, if this large amount of work is not organized reasonably and effectively, the overall execution time and performance are also worrying." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1150" />
-        <entry key="ENGLISH" value="1150" />
+        <entry key="CHINESE" value="1154" />
+        <entry key="ENGLISH" value="1155" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
