@@ -4,9 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="strict" />
       <item value="elegant" />
+      <item value="delicate" />
       <item value="graceful" />
+      <item value="strict" />
       <item value="no Trade" />
       <item value="no trade" />
       <item value="notrade" />
@@ -53,12 +54,11 @@
       <item value="If subsequent tasks do not depend on the output of a task, the output is discarded, allowing memory to be used efficiently;" />
       <item value="非预期" />
       <item value="迁移" />
-      <item value="correlate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1158" />
+        <entry key="CHINESE" value="1161" />
+        <entry key="ENGLISH" value="1162" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
