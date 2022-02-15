@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Finite Duration" />
       <item value="multiply Exact" />
       <item value="Til" />
       <item value="Until" />
@@ -53,12 +54,11 @@
       <item value="from which" />
       <item value="from which we consider execution progress is important" />
       <item value="Task execution progress can be strategically feed back (from which we consider that execution progress is important):" />
-      <item value="from witch we consider that execution progress is important" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1176" />
-        <entry key="ENGLISH" value="1177" />
+        <entry key="CHINESE" value="1177" />
+        <entry key="ENGLISH" value="1178" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
