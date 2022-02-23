@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="着重显示" />
       <item value="neaten Ordering" />
       <item value="neaten" />
       <item value="tidy" />
@@ -53,12 +54,11 @@
       <item value="Oscil" />
       <item value="Norms" />
       <item value="Crux" />
-      <item value="crux" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1190" />
-        <entry key="ENGLISH" value="1191" />
+        <entry key="CHINESE" value="1192" />
+        <entry key="ENGLISH" value="1192" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645112904867" />
+    <option name="lastTrimTime" value="1645592796364" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
