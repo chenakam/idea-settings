@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="已成交" />
       <item value="着重显示" />
       <item value="neaten Ordering" />
       <item value="neaten" />
@@ -53,12 +54,11 @@
       <item value="no Tx" />
       <item value="Oscil" />
       <item value="Norms" />
-      <item value="Crux" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1192" />
-        <entry key="ENGLISH" value="1192" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1193" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
