@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="span" />
       <item value="图论" />
       <item value="图" />
       <item value="filter Out Half Deal" />
@@ -16,7 +17,6 @@
       <item value="tidy" />
       <item value="obiter" />
       <item value="obit" />
-      <item value="span" />
       <item value="Matrix" />
       <item value="Estimate" />
       <item value="Volu" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1197" />
-        <entry key="ENGLISH" value="1197" />
+        <entry key="ENGLISH" value="1198" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
