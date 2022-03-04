@@ -2,7 +2,8 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="Scala">
-        <added pattern="hobby.chenai.nakam.test.GraphTest.n(outer)" />
+        <added pattern="hobby.chenai.nakam.test.*" />
+        <added pattern="hobby.chenai.nakam.autoex.data.*" />
       </blacklist>
     </blacklists>
   </component>
