@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Scala">
+        <added pattern="hobby.chenai.nakam.test.GraphTest.n(outer)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
