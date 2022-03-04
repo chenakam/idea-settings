@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="reorganize tests better, ditch android-sdk-plugin prefix" />
       <item value="Memo" />
       <item value="the path string to resolve against this path" />
       <item value="resolve" />
@@ -53,12 +54,11 @@
       <item value="immutable" />
       <item value="by turns" />
       <item value="轮流" />
-      <item value="轮到" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1207" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="CHINESE" value="1208" />
+        <entry key="ENGLISH" value="1209" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
