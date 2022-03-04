@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Graph Topo" />
       <item value="doesn't work yet" />
       <item value="span" />
       <item value="图论" />
@@ -53,11 +54,10 @@
       <item value="no Trade" />
       <item value="no trade" />
       <item value="notrade" />
-      <item value="trade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1198" />
+        <entry key="CHINESE" value="1199" />
         <entry key="ENGLISH" value="1199" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
@@ -80,7 +80,7 @@
         <entry key="UZBEK" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="2" />
-        <entry key="ITALIAN" value="6" />
+        <entry key="ITALIAN" value="7" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
