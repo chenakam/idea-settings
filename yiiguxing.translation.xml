@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="TRUNCATE EXISTING" />
       <item value="normalize" />
       <item value="provide our own implementation of Downloader for progress indication" />
       <item value="indication" />
@@ -53,12 +54,11 @@
       <item value="值日" />
       <item value="promise" />
       <item value="elegant" />
-      <item value="delicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1203" />
-        <entry key="ENGLISH" value="1204" />
+        <entry key="CHINESE" value="1204" />
+        <entry key="ENGLISH" value="1205" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
