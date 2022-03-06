@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="out Neighbors" />
+      <item value="incident" />
+      <item value="neighborhood" />
       <item value="impossible to have INCOMPLETE tx left" />
       <item value="remainder" />
       <item value="surplus" />
@@ -51,14 +54,11 @@
       <item value="Mock" />
       <item value="outcome" />
       <item value="start From Scratch" />
-      <item value="Scratch" />
-      <item value="Finite Duration" />
-      <item value="multiply Exact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1221" />
-        <entry key="ENGLISH" value="1222" />
+        <entry key="CHINESE" value="1225" />
+        <entry key="ENGLISH" value="1226" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
