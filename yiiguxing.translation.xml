@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="impossible to have INCOMPLETE tx left" />
+      <item value="remainder" />
+      <item value="surplus" />
+      <item value="不可能出现[未完全]成交的有剩余" />
       <item value="topo Graph" />
       <item value="mk Topologic" />
       <item value="successors" />
@@ -50,15 +54,11 @@
       <item value="Scratch" />
       <item value="Finite Duration" />
       <item value="multiply Exact" />
-      <item value="Til" />
-      <item value="Until" />
-      <item value="Util" />
-      <item value="trace Back" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1218" />
-        <entry key="ENGLISH" value="1218" />
+        <entry key="CHINESE" value="1221" />
+        <entry key="ENGLISH" value="1222" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
