@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="unlink" />
+      <item value="unlinked" />
       <item value="directed" />
       <item value="arity" />
       <item value="out Neighbors" />
@@ -52,13 +54,11 @@
       <item value="Matrix" />
       <item value="Estimate" />
       <item value="Volu" />
-      <item value="Volume" />
-      <item value="Mock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1228" />
-        <entry key="ENGLISH" value="1229" />
+        <entry key="CHINESE" value="1231" />
+        <entry key="ENGLISH" value="1232" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
