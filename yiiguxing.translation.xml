@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="outline" />
+      <item value="outline Drawable Bounds Of" />
+      <item value="Drawable" />
+      <item value="interact" />
       <item value="adopter" />
       <item value="二维数组" />
       <item value="cutoff Rows With Column Limit" />
@@ -50,15 +54,11 @@
       <item value="Graph Topo" />
       <item value="doesn't work yet" />
       <item value="span" />
-      <item value="图论" />
-      <item value="图" />
-      <item value="filter Out Half Deal" />
-      <item value="Half Deal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1239" />
-        <entry key="ENGLISH" value="1239" />
+        <entry key="CHINESE" value="1242" />
+        <entry key="ENGLISH" value="1243" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
