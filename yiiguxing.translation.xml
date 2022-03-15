@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="below" />
       <item value="usage" />
       <item value="outline" />
       <item value="outline Drawable Bounds Of" />
@@ -53,12 +54,11 @@
       <item value="evicted" />
       <item value="embed" />
       <item value="Graph Topo" />
-      <item value="doesn't work yet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1243" />
-        <entry key="ENGLISH" value="1244" />
+        <entry key="CHINESE" value="1244" />
+        <entry key="ENGLISH" value="1245" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
