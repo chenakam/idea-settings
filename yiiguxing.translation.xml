@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="usage" />
       <item value="outline" />
       <item value="outline Drawable Bounds Of" />
       <item value="Drawable" />
@@ -53,12 +54,11 @@
       <item value="embed" />
       <item value="Graph Topo" />
       <item value="doesn't work yet" />
-      <item value="span" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1242" />
-        <entry key="ENGLISH" value="1243" />
+        <entry key="CHINESE" value="1243" />
+        <entry key="ENGLISH" value="1244" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646887928022" />
+    <option name="lastTrimTime" value="1647335655417" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
