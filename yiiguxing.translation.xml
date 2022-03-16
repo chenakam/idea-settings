@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="Above" />
       <item value="Down" />
+      <item value="Above" />
       <item value="Lean On" />
       <item value="dither" />
       <item value="estimate" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1253" />
-        <entry key="ENGLISH" value="1254" />
+        <entry key="CHINESE" value="1255" />
+        <entry key="ENGLISH" value="1256" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
