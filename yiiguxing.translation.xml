@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="get Intrinsic Width" />
+      <item value="noinspection" />
+      <item value="noinspection ForwardReference" />
+      <item value="Forward Reference" />
       <item value="Down" />
       <item value="Above" />
       <item value="Lean On" />
@@ -50,15 +54,11 @@
       <item value="Link" />
       <item value="Io Link" />
       <item value="连接" />
-      <item value="Flight" />
-      <item value="key Attributes" />
-      <item value="Attribute" />
-      <item value="reorganize tests better, ditch android-sdk-plugin prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1255" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="CHINESE" value="1260" />
+        <entry key="ENGLISH" value="1261" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
