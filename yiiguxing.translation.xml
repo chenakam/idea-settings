@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Regular" />
+      <item value="Critical" />
       <item value="contour" />
       <item value="Append the specified arc to the path as a new contour." />
       <item value="quadratic" />
@@ -52,13 +54,11 @@
       <item value="surplus" />
       <item value="不可能出现[未完全]成交的有剩余" />
       <item value="topo Graph" />
-      <item value="mk Topologic" />
-      <item value="successors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1265" />
-        <entry key="ENGLISH" value="1266" />
+        <entry key="CHINESE" value="1267" />
+        <entry key="ENGLISH" value="1268" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
