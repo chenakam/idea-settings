@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="is Laid Out" />
+      <item value="has been through" />
       <item value="Dash" />
       <item value="Porter Duff" />
       <item value="Porter Duff Xfermode" />
@@ -52,13 +54,11 @@
       <item value="arity" />
       <item value="out Neighbors" />
       <item value="incident" />
-      <item value="neighborhood" />
-      <item value="impossible to have INCOMPLETE tx left" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1271" />
+        <entry key="CHINESE" value="1272" />
+        <entry key="ENGLISH" value="1273" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
