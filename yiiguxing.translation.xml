@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="ellipsize" />
+      <item value="freezes" />
       <item value="reachability" />
       <item value="reachability Fence" />
       <item value="is Laid Out" />
@@ -52,13 +54,11 @@
       <item value="Successors" />
       <item value="unlink" />
       <item value="unlinked" />
-      <item value="directed" />
-      <item value="arity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1274" />
-        <entry key="ENGLISH" value="1275" />
+        <entry key="CHINESE" value="1276" />
+        <entry key="ENGLISH" value="1277" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647335655417" />
+    <option name="lastTrimTime" value="1647868243504" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
