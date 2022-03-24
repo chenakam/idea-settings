@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Noisy" />
       <item value="Unmodified" />
       <item value="is Scrap" />
       <item value="Davey" />
@@ -53,12 +54,11 @@
       <item value="adopter" />
       <item value="二维数组" />
       <item value="cutoff Rows With Column Limit" />
-      <item value="cutoff With Column Limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1284" />
+        <entry key="CHINESE" value="1284" />
+        <entry key="ENGLISH" value="1285" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
