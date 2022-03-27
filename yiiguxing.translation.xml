@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="infinity" />
+      <item value="positive" />
       <item value="全局" />
       <item value="整体上" />
       <item value="is Out Of Bounds" />
@@ -52,13 +54,11 @@
       <item value="below" />
       <item value="usage" />
       <item value="outline" />
-      <item value="outline Drawable Bounds Of" />
-      <item value="Drawable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1288" />
-        <entry key="ENGLISH" value="1288" />
+        <entry key="CHINESE" value="1289" />
+        <entry key="ENGLISH" value="1290" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
