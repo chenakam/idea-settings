@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="全局" />
+      <item value="整体上" />
       <item value="is Out Of Bounds" />
       <item value="Accessibility" />
       <item value="Noisy" />
@@ -52,13 +54,11 @@
       <item value="outline" />
       <item value="outline Drawable Bounds Of" />
       <item value="Drawable" />
-      <item value="interact" />
-      <item value="adopter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1286" />
-        <entry key="ENGLISH" value="1287" />
+        <entry key="CHINESE" value="1288" />
+        <entry key="ENGLISH" value="1288" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647868243504" />
+    <option name="lastTrimTime" value="1648358056444" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
