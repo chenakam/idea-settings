@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Invocation Target Exception" />
       <item value="Davey" />
       <item value="Setup" />
       <item value="Settle" />
@@ -53,12 +54,11 @@
       <item value="get Draw Location For Link Out" />
       <item value="get Link Out Draw Location" />
       <item value="location" />
-      <item value="Position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1293" />
-        <entry key="ENGLISH" value="1294" />
+        <entry key="CHINESE" value="1294" />
+        <entry key="ENGLISH" value="1295" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
