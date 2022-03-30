@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Main Bubble" />
       <item value="set Fake Bold Text" />
       <item value="Restricts" />
       <item value="indeterminate" />
@@ -53,12 +54,11 @@
       <item value="Lean On" />
       <item value="dither" />
       <item value="estimate" />
-      <item value="估算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1297" />
-        <entry key="ENGLISH" value="1298" />
+        <entry key="CHINESE" value="1298" />
+        <entry key="ENGLISH" value="1299" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
