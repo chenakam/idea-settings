@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="mock" />
       <item value="deal" />
       <item value="decorations" />
       <item value="elevation" />
@@ -53,12 +54,11 @@
       <item value="noinspection ForwardReference" />
       <item value="Forward Reference" />
       <item value="Down" />
-      <item value="Above" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1301" />
-        <entry key="ENGLISH" value="1302" />
+        <entry key="CHINESE" value="1302" />
+        <entry key="ENGLISH" value="1303" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="4" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648358056444" />
+    <option name="lastTrimTime" value="1648828864841" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
