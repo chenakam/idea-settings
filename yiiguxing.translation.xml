@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="release State May Illegal At Startup" />
+      <item value="At Startup" />
+      <item value="At Start Up" />
+      <item value="release State May Illegal At Start Up" />
+      <item value="Illegal" />
+      <item value="Illigal" />
+      <item value="Sort Out" />
       <item value="Union" />
       <item value="allow Del By Union Key" />
       <item value="retain Diff Left Oid" />
@@ -47,18 +54,11 @@
       <item value="ellipsize" />
       <item value="freezes" />
       <item value="reachability" />
-      <item value="reachability Fence" />
-      <item value="is Laid Out" />
-      <item value="has been through" />
-      <item value="Dash" />
-      <item value="Porter Duff" />
-      <item value="Porter Duff Xfermode" />
-      <item value="STROKE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1314" />
-        <entry key="ENGLISH" value="1315" />
+        <entry key="CHINESE" value="1321" />
+        <entry key="ENGLISH" value="1322" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="4" />
