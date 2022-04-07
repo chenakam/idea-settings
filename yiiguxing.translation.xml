@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="with Non Blocking Lock" />
+      <item value="with Blocking Lock" />
       <item value="beyond" />
       <item value="overlaps" />
       <item value="portion" />
@@ -52,13 +54,11 @@
       <item value="set Fake Bold Text" />
       <item value="Restricts" />
       <item value="indeterminate" />
-      <item value="Invocation Target Exception" />
-      <item value="Davey" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1342" />
-        <entry key="ENGLISH" value="1343" />
+        <entry key="CHINESE" value="1344" />
+        <entry key="ENGLISH" value="1345" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
