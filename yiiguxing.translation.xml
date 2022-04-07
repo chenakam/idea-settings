@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="overlaps" />
+      <item value="portion" />
+      <item value="The file length will change only by writing after the offset has been set beyond the end of the file." />
+      <item value="The offset may be set beyond the end of the file" />
+      <item value="stuff" />
       <item value="host Dir" />
       <item value="respectively" />
       <item value="rws" />
@@ -49,16 +54,11 @@
       <item value="Invocation Target Exception" />
       <item value="Davey" />
       <item value="Setup" />
-      <item value="Settle" />
-      <item value="counter-clockwise" />
-      <item value="infinity" />
-      <item value="positive" />
-      <item value="全局" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1336" />
-        <entry key="ENGLISH" value="1336" />
+        <entry key="CHINESE" value="1341" />
+        <entry key="ENGLISH" value="1342" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
