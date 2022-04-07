@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="surprisingly" />
+      <item value="benchmarks" />
+      <item value="typically" />
+      <item value="This way of building sets typically has the best benchmarks, surprisingly!" />
       <item value="Integral" />
       <item value="minus" />
       <item value="Conflicted" />
@@ -50,15 +54,11 @@
       <item value="整体上" />
       <item value="is Out Of Bounds" />
       <item value="Accessibility" />
-      <item value="Noisy" />
-      <item value="Unmodified" />
-      <item value="is Scrap" />
-      <item value="terminology" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1329" />
-        <entry key="ENGLISH" value="1330" />
+        <entry key="CHINESE" value="1333" />
+        <entry key="ENGLISH" value="1334" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="4" />
