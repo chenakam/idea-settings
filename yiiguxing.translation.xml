@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="expect" />
       <item value="immediately" />
       <item value="with Non Block Lock" />
       <item value="属于" />
@@ -53,12 +54,11 @@
       <item value="mock" />
       <item value="decorations" />
       <item value="elevation" />
-      <item value="Main Bubble" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1346" />
-        <entry key="ENGLISH" value="1347" />
+        <entry key="CHINESE" value="1347" />
+        <entry key="ENGLISH" value="1348" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
