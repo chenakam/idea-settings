@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="start From Scratch" />
+      <item value="Scratch" />
       <item value="Redirect" />
       <item value="booted" />
       <item value="strict" />
@@ -52,13 +54,11 @@
       <item value="strick" />
       <item value="Persistence" />
       <item value="Disappearance" />
-      <item value="复合" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1352" />
-        <entry key="ENGLISH" value="1353" />
+        <entry key="CHINESE" value="1354" />
+        <entry key="ENGLISH" value="1355" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
