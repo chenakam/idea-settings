@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="85" />
     <histories>
       <item value="obvious" />
+      <item value="明亮度" />
+      <item value="conspicuous" />
       <item value="obviously" />
       <item value="Obvious" />
       <item value="显著的" />
@@ -52,13 +54,11 @@
       <item value="rws" />
       <item value="surprisingly" />
       <item value="benchmarks" />
-      <item value="typically" />
-      <item value="This way of building sets typically has the best benchmarks, surprisingly!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1378" />
-        <entry key="ENGLISH" value="1379" />
+        <entry key="CHINESE" value="1380" />
+        <entry key="ENGLISH" value="1381" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
