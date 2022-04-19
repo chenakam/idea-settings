@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="umbrella" />
       <item value="雨伞" />
       <item value="dis Burden" />
       <item value="obvious" />
@@ -53,12 +54,11 @@
       <item value="stuff" />
       <item value="host Dir" />
       <item value="respectively" />
-      <item value="rws" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1383" />
-        <entry key="ENGLISH" value="1382" />
+        <entry key="ENGLISH" value="1383" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
