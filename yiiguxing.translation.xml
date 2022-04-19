@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="dis Burden" />
       <item value="obvious" />
       <item value="明亮度" />
       <item value="conspicuous" />
@@ -53,12 +54,11 @@
       <item value="respectively" />
       <item value="rws" />
       <item value="surprisingly" />
-      <item value="benchmarks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1380" />
-        <entry key="ENGLISH" value="1381" />
+        <entry key="CHINESE" value="1381" />
+        <entry key="ENGLISH" value="1382" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
