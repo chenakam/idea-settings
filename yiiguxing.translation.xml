@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="hammer" />
+      <item value="锤子" />
       <item value="umb" />
       <item value="aggregate" />
       <item value="阻挡" />
@@ -52,13 +54,11 @@
       <item value="last State Ref" />
       <item value="recent" />
       <item value="expect" />
-      <item value="immediately" />
-      <item value="with Non Block Lock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1392" />
-        <entry key="ENGLISH" value="1393" />
+        <entry key="CHINESE" value="1393" />
+        <entry key="ENGLISH" value="1394" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
