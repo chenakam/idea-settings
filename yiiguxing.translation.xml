@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="hang Verify" />
+      <item value="hanged Verified" />
+      <item value="hanged" />
+      <item value="上吊" />
       <item value="hammer" />
       <item value="锤子" />
       <item value="umb" />
@@ -50,15 +54,11 @@
       <item value="Scratch" />
       <item value="Redirect" />
       <item value="booted" />
-      <item value="strict" />
-      <item value="last State Ref" />
-      <item value="recent" />
-      <item value="expect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1393" />
-        <entry key="ENGLISH" value="1394" />
+        <entry key="CHINESE" value="1396" />
+        <entry key="ENGLISH" value="1397" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
