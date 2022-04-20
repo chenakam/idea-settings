@@ -4,9 +4,7 @@
       <map>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.dengzii.plugin.adb.free">
