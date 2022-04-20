@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="ambush" />
       <item value="Distinguish" />
       <item value="obiter" />
       <item value="实体" />
@@ -53,12 +54,11 @@
       <item value="beyond" />
       <item value="overlaps" />
       <item value="portion" />
-      <item value="The file length will change only by writing after the offset has been set beyond the end of the file." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1386" />
-        <entry key="ENGLISH" value="1387" />
+        <entry key="CHINESE" value="1387" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
