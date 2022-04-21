@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="is Verified" />
+      <item value="is Reversed" />
+      <item value="is Reverse" />
       <item value="hang Verify" />
       <item value="hanged Verified" />
       <item value="hanged" />
@@ -51,14 +54,11 @@
       <item value="行尾" />
       <item value="容纳" />
       <item value="start From Scratch" />
-      <item value="Scratch" />
-      <item value="Redirect" />
-      <item value="booted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1396" />
-        <entry key="ENGLISH" value="1397" />
+        <entry key="CHINESE" value="1399" />
+        <entry key="ENGLISH" value="1400" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
