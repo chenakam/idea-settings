@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="parsed Has Agr" />
       <item value="is Verified" />
       <item value="is Reversed" />
       <item value="is Reverse" />
@@ -53,12 +54,11 @@
       <item value="per Row Tails" />
       <item value="行尾" />
       <item value="容纳" />
-      <item value="start From Scratch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1399" />
-        <entry key="ENGLISH" value="1400" />
+        <entry key="CHINESE" value="1400" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
@@ -87,7 +87,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650226052454" />
+    <option name="lastTrimTime" value="1650713742380" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
