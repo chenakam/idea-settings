@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="tall" />
+      <item value="talleat" />
+      <item value="loud" />
       <item value="startup" />
       <item value="shot" />
       <item value="parsed Has Agr" />
@@ -51,19 +54,17 @@
       <item value="adjustment" />
       <item value="size And Loc Confirm Loop" />
       <item value="follow At Heels" />
-      <item value="Heels" />
-      <item value="Heel" />
-      <item value="per Row Tails" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1402" />
-        <entry key="ENGLISH" value="1403" />
+        <entry key="CHINESE" value="1405" />
+        <entry key="ENGLISH" value="1406" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
         <entry key="FRENCH" value="11" />
         <entry key="FILIPINO" value="4" />
+        <entry key="FRISIAN" value="2" />
         <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="5" />
         <entry key="CATALAN" value="3" />
