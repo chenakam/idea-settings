@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="最" />
       <item value="extent" />
       <item value="variance" />
       <item value="方差" />
@@ -53,12 +54,11 @@
       <item value="deserial" />
       <item value="Unique Serial Num" />
       <item value="Unique" />
-      <item value="unknown mock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1416" />
-        <entry key="ENGLISH" value="1416" />
+        <entry key="CHINESE" value="1417" />
+        <entry key="ENGLISH" value="1417" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
