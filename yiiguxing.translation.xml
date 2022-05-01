@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="obvious" />
       <item value="Crucible" />
       <item value="Cruxable" />
       <item value="Obstinacy" />
@@ -44,7 +45,6 @@
       <item value="Distinguish" />
       <item value="obiter" />
       <item value="实体" />
-      <item value="obvious" />
       <item value="eval" />
       <item value="umbrella" />
       <item value="雨伞" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1422" />
-        <entry key="ENGLISH" value="1423" />
+        <entry key="CHINESE" value="1423" />
+        <entry key="ENGLISH" value="1424" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
