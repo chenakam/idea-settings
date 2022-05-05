@@ -4,9 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Crucible" />
       <item value="Distinguish" />
       <item value="obvious" />
-      <item value="Crucible" />
       <item value="Cruxable" />
       <item value="Obstinacy" />
       <item value="extent" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1424" />
-        <entry key="ENGLISH" value="1425" />
+        <entry key="CHINESE" value="1425" />
+        <entry key="ENGLISH" value="1426" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
