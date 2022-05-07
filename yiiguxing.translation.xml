@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Ceil" />
+      <item value="category" />
       <item value="discern" />
       <item value="Crux" />
       <item value="presentation" />
@@ -52,13 +54,11 @@
       <item value="支撑" />
       <item value="crux" />
       <item value="ambush" />
-      <item value="obiter" />
-      <item value="实体" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1434" />
-        <entry key="ENGLISH" value="1435" />
+        <entry key="CHINESE" value="1437" />
+        <entry key="ENGLISH" value="1438" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
