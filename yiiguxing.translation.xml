@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="sealed" />
       <item value="guard" />
       <item value="impurities" />
       <item value="杂质" />
@@ -53,12 +54,11 @@
       <item value="umbrella" />
       <item value="雨伞" />
       <item value="dis Burden" />
-      <item value="明亮度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1428" />
-        <entry key="ENGLISH" value="1429" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1431" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
