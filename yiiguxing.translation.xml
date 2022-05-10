@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="that prevents Room from being incremental" />
+      <item value="shipped" />
       <item value="Cnt Down" />
       <item value="Overlapping File Lock Exception" />
       <item value="flatten" />
@@ -52,13 +54,11 @@
       <item value="锤子" />
       <item value="umb" />
       <item value="aggregate" />
-      <item value="阻挡" />
-      <item value="sustain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1441" />
-        <entry key="ENGLISH" value="1442" />
+        <entry key="CHINESE" value="1443" />
+        <entry key="ENGLISH" value="1444" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
