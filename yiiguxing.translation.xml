@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Original" />
       <item value="obiter" />
       <item value="Aggregate" />
       <item value="Umbrella" />
@@ -53,12 +54,11 @@
       <item value="is Reverse" />
       <item value="hang Verify" />
       <item value="hanged Verified" />
-      <item value="hanged" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1449" />
-        <entry key="ENGLISH" value="1449" />
+        <entry key="ENGLISH" value="1450" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651770278071" />
+    <option name="lastTrimTime" value="1652246004189" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
