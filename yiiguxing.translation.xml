@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="resist" />
+      <item value="Prop" />
+      <item value="resist Or Prop" />
       <item value="hammer" />
       <item value="is Tied In" />
       <item value="Suitable" />
@@ -51,14 +54,11 @@
       <item value="掐头去尾" />
       <item value="tallest" />
       <item value="tall" />
-      <item value="talleat" />
-      <item value="loud" />
-      <item value="startup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1456" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="CHINESE" value="1460" />
+        <entry key="ENGLISH" value="1461" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
