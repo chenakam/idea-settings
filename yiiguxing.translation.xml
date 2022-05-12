@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="is Resisted" />
+      <item value="is Resist Succeed" />
+      <item value="is Resist Succed" />
+      <item value="is Resist" />
+      <item value="Resist" />
+      <item value="verify Resist" />
+      <item value="is Tied In" />
       <item value="Tied In" />
       <item value="sealed" />
       <item value="is Hanging" />
@@ -13,7 +20,6 @@
       <item value="Prop" />
       <item value="resist Or Prop" />
       <item value="hammer" />
-      <item value="is Tied In" />
       <item value="Suitable" />
       <item value="is Suitable" />
       <item value="Sutable" />
@@ -48,17 +54,11 @@
       <item value="extent" />
       <item value="程度" />
       <item value="最" />
-      <item value="variance" />
-      <item value="方差" />
-      <item value="approximate" />
-      <item value="近似" />
-      <item value="affinity" />
-      <item value="break Off Both Ends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1465" />
-        <entry key="ENGLISH" value="1466" />
+        <entry key="CHINESE" value="1473" />
+        <entry key="ENGLISH" value="1474" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
