@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="nearly" />
+      <item value="差不多" />
       <item value="is Resisted" />
       <item value="is Resist Succeed" />
       <item value="is Resist Succed" />
@@ -52,13 +54,11 @@
       <item value="Cruxable" />
       <item value="Obstinacy" />
       <item value="extent" />
-      <item value="程度" />
-      <item value="最" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1473" />
-        <entry key="ENGLISH" value="1474" />
+        <entry key="CHINESE" value="1475" />
+        <entry key="ENGLISH" value="1475" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
