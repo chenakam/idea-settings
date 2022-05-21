@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Unexpected error while performing partial evaluation:" />
       <item value="arithmetic" />
       <item value="simplification" />
       <item value="deserialized" />
@@ -53,12 +54,11 @@
       <item value="is Hang" />
       <item value="resist" />
       <item value="Prop" />
-      <item value="resist Or Prop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1508" />
-        <entry key="ENGLISH" value="1509" />
+        <entry key="CHINESE" value="1509" />
+        <entry key="ENGLISH" value="1510" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
