@@ -63,6 +63,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.intellij.plugins.markdown">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.intellij.scala">
           <value>
             <PluginData>
@@ -82,6 +89,13 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="tanvd.grazi">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
