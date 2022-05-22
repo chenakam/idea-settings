@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Related" />
+      <item value="Delegates" />
       <item value="insight" />
       <item value="deprecate" />
       <item value="Duplicate" />
@@ -52,13 +54,11 @@
       <item value="is Resist" />
       <item value="Resist" />
       <item value="verify Resist" />
-      <item value="is Tied In" />
-      <item value="Tied In" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1515" />
-        <entry key="ENGLISH" value="1516" />
+        <entry key="CHINESE" value="1517" />
+        <entry key="ENGLISH" value="1518" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
