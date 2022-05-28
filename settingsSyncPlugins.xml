@@ -2,6 +2,25 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="ASM Bytecode Outline">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="ASM Bytecode Viewer">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData />
@@ -27,6 +46,17 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.shuzijun.markdown-editor">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -65,9 +95,7 @@
         </entry>
         <entry key="org.intellij.plugins.markdown">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.intellij.scala">
@@ -94,9 +122,7 @@
         </entry>
         <entry key="tanvd.grazi">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
       </map>
