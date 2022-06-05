@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="that prevents Room from being incremental" />
       <item value="populate Name Map" />
       <item value="represented" />
       <item value="declares" />
@@ -53,12 +54,11 @@
       <item value="earliest Or Latest" />
       <item value="get Plans Need Handle With Opened Limit" />
       <item value="heap" />
-      <item value="Request that your application's processes be created with a large Dalvik heap. This applies to all processes created for the application. It only applies to the first application loaded into a process; if using a sharedUserId to allow multiple applications to use a process, they all must use this option consistently or will get unpredictable results" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
