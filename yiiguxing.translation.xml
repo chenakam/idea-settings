@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Dust" />
+      <item value="Job Dust" />
+      <item value="Job" />
       <item value="that prevents Room from being incremental" />
       <item value="populate Name Map" />
       <item value="represented" />
@@ -51,14 +54,11 @@
       <item value="flipped" />
       <item value="fliped" />
       <item value="early Or Latest" />
-      <item value="earliest Or Latest" />
-      <item value="get Plans Need Handle With Opened Limit" />
-      <item value="heap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1531" />
-        <entry key="ENGLISH" value="1532" />
+        <entry key="CHINESE" value="1534" />
+        <entry key="ENGLISH" value="1535" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653373985168" />
+    <option name="lastTrimTime" value="1654421112813" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
