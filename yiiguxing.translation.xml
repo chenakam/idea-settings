@@ -4,6 +4,20 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="initial Supply" />
+      <item value="This creates an array with all balances" />
+      <item value="18 decimals is the strongly suggested default, avoid changing it" />
+      <item value="Public variables of the token" />
+      <item value="This notifies clients about the amount burnt" />
+      <item value="This generates a public event on the blockchain that will notify clients" />
+      <item value="silence state mutability warning without generating bytecode" />
+      <item value="_msg Data" />
+      <item value="payable" />
+      <item value="allowance" />
+      <item value="transfer From" />
+      <item value="total Supply" />
+      <item value="transfer" />
+      <item value="approve" />
       <item value="Mergeable" />
       <item value="Dust" />
       <item value="Job Dust" />
@@ -40,25 +54,11 @@
       <item value="duplicate" />
       <item value="App for auto-tx on exchanges" />
       <item value="App for auto-tx on exchanges intelligent." />
-      <item value="candle" />
-      <item value="expect" />
-      <item value="expected" />
-      <item value="expected NOT `Base` or `Full`" />
-      <item value="expect NOT `Base` or `Full`" />
-      <item value="NOT `Base` or `Full` expected" />
-      <item value="Snippet" />
-      <item value="crux" />
-      <item value="Engulf" />
-      <item value="embezzle" />
-      <item value="吞没" />
-      <item value="engulf" />
-      <item value="flipped" />
-      <item value="fliped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1535" />
-        <entry key="ENGLISH" value="1536" />
+        <entry key="CHINESE" value="1552" />
+        <entry key="ENGLISH" value="1553" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
