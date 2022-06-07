@@ -4,8 +4,21 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="initial Supply" />
+      <item value="spender" />
       <item value="This creates an array with all balances" />
+      <item value="Emits an {Approval} event." />
+      <item value="This internal function is equivalent to `approve`, and can be used to e.g. set automatic allowances for certain subsystems, etc." />
+      <item value="dev" />
+      <item value="Sets `amount` as the allowance of `spender` over the `owner` s tokens." />
+      <item value="approve to the zero address" />
+      <item value="approve from the zero address" />
+      <item value="Ownable" />
+      <item value="allowance" />
+      <item value="emit" />
+      <item value="balance Of" />
+      <item value="previous Balances" />
+      <item value="Check for overflows" />
+      <item value="initial Supply" />
       <item value="18 decimals is the strongly suggested default, avoid changing it" />
       <item value="Public variables of the token" />
       <item value="This notifies clients about the amount burnt" />
@@ -13,7 +26,6 @@
       <item value="silence state mutability warning without generating bytecode" />
       <item value="_msg Data" />
       <item value="payable" />
-      <item value="allowance" />
       <item value="transfer From" />
       <item value="total Supply" />
       <item value="transfer" />
@@ -42,23 +54,11 @@
       <item value="Duplicate" />
       <item value="suspicious" />
       <item value="obfuscation" />
-      <item value="allowobfuscation" />
-      <item value="Unexpected error while performing partial evaluation:" />
-      <item value="arithmetic" />
-      <item value="simplification" />
-      <item value="deserialized" />
-      <item value="Maybe you meant the fully qualified name" />
-      <item value="the configuration refers to the unknown class" />
-      <item value="qualified" />
-      <item value="but not the descriptor class" />
-      <item value="duplicate" />
-      <item value="App for auto-tx on exchanges" />
-      <item value="App for auto-tx on exchanges intelligent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1552" />
-        <entry key="ENGLISH" value="1553" />
+        <entry key="CHINESE" value="1568" />
+        <entry key="ENGLISH" value="1569" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
