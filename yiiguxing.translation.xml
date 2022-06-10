@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="The produced tree is path dependent on the Universe reify was called from." />
+      <item value="representing" />
       <item value="enclosing" />
       <item value="spender" />
       <item value="This creates an array with all balances" />
@@ -52,13 +54,11 @@
       <item value="Delegates" />
       <item value="insight" />
       <item value="deprecate" />
-      <item value="Duplicate" />
-      <item value="suspicious" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1569" />
-        <entry key="ENGLISH" value="1570" />
+        <entry key="CHINESE" value="1571" />
+        <entry key="ENGLISH" value="1572" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
