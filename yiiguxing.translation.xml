@@ -4,8 +4,13 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="&lt;methodName&gt; has this form for some reason (only when the explicit type is present, though)" />
+      <item value="has this form for some reason" />
       <item value="only when the explicit type is present, though" />
+      <item value="(only when the explicit type is present, though" />
+      <item value="only when the explicit type is present" />
+      <item value="though" />
+      <item value="&lt;methodName&gt; has this form for some reason (only when the explicit type is present, though)" />
+      <item value="trim is not strictly correct, but macros don't expose the API necessary" />
       <item value="&lt;methodName&gt; has this form for some reason" />
       <item value="The produced tree is path dependent on the Universe reify was called from." />
       <item value="representing" />
@@ -49,16 +54,11 @@
       <item value="Reparenting" />
       <item value="cleartext Traffic Permitted" />
       <item value="Traffic Permitted" />
-      <item value="Permitted" />
-      <item value="App for auto-tx on exchanges." />
-      <item value="App for intelligent auto-tx on exchanges." />
-      <item value="App for auto-tx intelligent on exchanges." />
-      <item value="Related" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1574" />
-        <entry key="ENGLISH" value="1575" />
+        <entry key="CHINESE" value="1581" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
