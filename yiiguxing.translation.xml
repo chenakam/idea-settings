@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="&lt;methodName&gt; has this form for some reason (only when the explicit type is present, though)" />
+      <item value="only when the explicit type is present, though" />
+      <item value="&lt;methodName&gt; has this form for some reason" />
       <item value="The produced tree is path dependent on the Universe reify was called from." />
       <item value="representing" />
       <item value="enclosing" />
@@ -51,14 +54,11 @@
       <item value="App for intelligent auto-tx on exchanges." />
       <item value="App for auto-tx intelligent on exchanges." />
       <item value="Related" />
-      <item value="Delegates" />
-      <item value="insight" />
-      <item value="deprecate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1571" />
-        <entry key="ENGLISH" value="1572" />
+        <entry key="CHINESE" value="1574" />
+        <entry key="ENGLISH" value="1575" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654421112813" />
+    <option name="lastTrimTime" value="1654887923549" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
