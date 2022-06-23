@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="direction" />
       <item value="full Permutation" />
       <item value="fill Permutation" />
       <item value="permutations" />
@@ -53,12 +54,11 @@
       <item value="Dust" />
       <item value="Job Dust" />
       <item value="Job" />
-      <item value="that prevents Room from being incremental" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1589" />
-        <entry key="ENGLISH" value="1590" />
+        <entry key="CHINESE" value="1590" />
+        <entry key="ENGLISH" value="1591" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
