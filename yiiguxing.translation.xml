@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="full Permutation" />
+      <item value="fill Permutation" />
+      <item value="permutations" />
+      <item value="全排列组合" />
       <item value="the number of elements in the 2nd dimension" />
       <item value="the number of elements in the 1st dimension" />
       <item value="AUTHORITY" />
@@ -50,15 +54,11 @@
       <item value="Job Dust" />
       <item value="Job" />
       <item value="that prevents Room from being incremental" />
-      <item value="populate Name Map" />
-      <item value="represented" />
-      <item value="declares" />
-      <item value="private fields, but excludes inherited fields." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1586" />
-        <entry key="ENGLISH" value="1587" />
+        <entry key="CHINESE" value="1589" />
+        <entry key="ENGLISH" value="1590" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655454903156" />
+    <option name="lastTrimTime" value="1655948286450" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
