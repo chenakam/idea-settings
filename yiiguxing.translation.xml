@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Malformed class name" />
       <item value="elapsed" />
       <item value="prologue" />
       <item value="Related" />
@@ -53,12 +54,11 @@
       <item value="initial Supply" />
       <item value="18 decimals is the strongly suggested default, avoid changing it" />
       <item value="Public variables of the token" />
-      <item value="This notifies clients about the amount burnt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1602" />
-        <entry key="ENGLISH" value="1603" />
+        <entry key="CHINESE" value="1603" />
+        <entry key="ENGLISH" value="1604" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
