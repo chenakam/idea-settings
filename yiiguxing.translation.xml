@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="This is typically an alias for the task that actually does the packaging." />
       <item value="inspect" />
       <item value="小颗粒" />
       <item value="direction" />
@@ -53,12 +54,11 @@
       <item value="transfer" />
       <item value="approve" />
       <item value="Mergeable" />
-      <item value="Dust" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1591" />
-        <entry key="ENGLISH" value="1592" />
+        <entry key="CHINESE" value="1592" />
+        <entry key="ENGLISH" value="1593" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
