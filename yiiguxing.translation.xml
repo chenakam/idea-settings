@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="backport" />
+      <item value="retrolambda" />
+      <item value="related" />
       <item value="transitive" />
       <item value="This is typically an alias for the task that actually does the packaging." />
       <item value="inspect" />
@@ -51,14 +54,11 @@
       <item value="_msg Data" />
       <item value="payable" />
       <item value="transfer From" />
-      <item value="total Supply" />
-      <item value="transfer" />
-      <item value="approve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1594" />
-        <entry key="ENGLISH" value="1595" />
+        <entry key="CHINESE" value="1596" />
+        <entry key="ENGLISH" value="1597" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
@@ -68,6 +68,7 @@
         <entry key="GUJARATI" value="1" />
         <entry key="DUTCH" value="5" />
         <entry key="CATALAN" value="4" />
+        <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="8" />
         <entry key="ROMANIAN" value="2" />
