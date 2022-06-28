@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="instrumentation" />
       <item value="backport" />
       <item value="retrolambda" />
       <item value="related" />
@@ -53,12 +54,11 @@
       <item value="silence state mutability warning without generating bytecode" />
       <item value="_msg Data" />
       <item value="payable" />
-      <item value="transfer From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1596" />
-        <entry key="ENGLISH" value="1597" />
+        <entry key="CHINESE" value="1597" />
+        <entry key="ENGLISH" value="1598" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />

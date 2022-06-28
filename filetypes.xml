@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".magent_0469D892-689C-4027-A8CA-86A6A5981DD0.torrent" type="ARCHIVE" />
+      <mapping ext="apklib" type="ARCHIVE" />
       <mapping pattern="in-cache" type="AUTO_DETECTED" />
       <mapping pattern="cross_process_state_mgr_test" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
