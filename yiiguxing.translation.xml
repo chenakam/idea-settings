@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Warning: Visibility for constructor is ignored. If you want the contract to be non-deployable, making it &quot;abstract&quot; is sufficient." />
       <item value="constructor" />
       <item value="audited" />
       <item value="Voter" />
@@ -53,12 +54,11 @@
       <item value="Ownable" />
       <item value="allowance" />
       <item value="emit" />
-      <item value="balance Of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1608" />
-        <entry key="ENGLISH" value="1609" />
+        <entry key="CHINESE" value="1609" />
+        <entry key="ENGLISH" value="1610" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
