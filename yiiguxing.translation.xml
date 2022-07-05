@@ -4,11 +4,17 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="bid" />
+      <item value="beneficiary" />
+      <item value="Create a simple auction with `biddingTime` seconds bidding time on behalf of the beneficiary address `beneficiaryAddress`." />
+      <item value="behalf" />
+      <item value="seconds bidding time on behalf of the" />
+      <item value="Create a simple auction with `biddingTime`" />
+      <item value="bidding Time" />
+      <item value="Auction" />
       <item value="Events that will be emitted on changes." />
       <item value="pure" />
       <item value="beneficiary Address" />
-      <item value="beneficiary" />
-      <item value="bidding Time" />
       <item value="Errors that describe failures." />
       <item value="Highest Bid Increased" />
       <item value="Allowed withdrawals of previous bids" />
@@ -18,7 +24,6 @@
       <item value="highest Bid" />
       <item value="Bidder" />
       <item value="uint" />
-      <item value="Auction" />
       <item value="auction End Time" />
       <item value="Parameters of the auction. Times are either absolute unix timestamps (seconds since 1970-01-01) or time periods in seconds." />
       <item value="Parameters of the auction. Times are either" />
@@ -49,16 +54,11 @@
       <item value="the number of elements in the 2nd dimension" />
       <item value="the number of elements in the 1st dimension" />
       <item value="AUTHORITY" />
-      <item value="Intrinsics Kt" />
-      <item value="has this form for some reason" />
-      <item value="only when the explicit type is present, though" />
-      <item value="(only when the explicit type is present, though" />
-      <item value="only when the explicit type is present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1634" />
-        <entry key="ENGLISH" value="1635" />
+        <entry key="CHINESE" value="1645" />
+        <entry key="ENGLISH" value="1646" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
