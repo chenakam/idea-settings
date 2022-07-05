@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="uint" />
+      <item value="Auction" />
+      <item value="auction End Time" />
+      <item value="beneficiary" />
+      <item value="Parameters of the auction. Times are either absolute unix timestamps (seconds since 1970-01-01) or time periods in seconds." />
+      <item value="Parameters of the auction. Times are either" />
       <item value="Warning: Visibility for constructor is ignored. If you want the contract to be non-deployable, making it &quot;abstract&quot; is sufficient." />
       <item value="constructor" />
       <item value="audited" />
@@ -48,17 +54,11 @@
       <item value="Emits an {Approval} event." />
       <item value="This internal function is equivalent to `approve`, and can be used to e.g. set automatic allowances for certain subsystems, etc." />
       <item value="dev" />
-      <item value="Sets `amount` as the allowance of `spender` over the `owner` s tokens." />
-      <item value="approve to the zero address" />
-      <item value="approve from the zero address" />
-      <item value="Ownable" />
-      <item value="allowance" />
-      <item value="emit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1609" />
-        <entry key="ENGLISH" value="1610" />
+        <entry key="CHINESE" value="1615" />
+        <entry key="ENGLISH" value="1616" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
