@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Create a simple auction with `biddingTime` seconds bidding time on behalf of the beneficiary address `beneficiaryAddress`." />
       <item value="If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
       <item value="3. interacting with other contracts If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
       <item value="interacting with other contracts" />
@@ -21,7 +22,6 @@
       <item value="Withdraw a bid that was overbid." />
       <item value="bid" />
       <item value="beneficiary" />
-      <item value="Create a simple auction with `biddingTime` seconds bidding time on behalf of the beneficiary address `beneficiaryAddress`." />
       <item value="behalf" />
       <item value="seconds bidding time on behalf of the" />
       <item value="Create a simple auction with `biddingTime`" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1661" />
-        <entry key="ENGLISH" value="1662" />
+        <entry key="CHINESE" value="1662" />
+        <entry key="ENGLISH" value="1663" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
