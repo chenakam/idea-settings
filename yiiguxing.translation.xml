@@ -4,10 +4,22 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="pure" />
+      <item value="beneficiary Address" />
+      <item value="beneficiary" />
+      <item value="bidding Time" />
+      <item value="Errors that describe failures." />
+      <item value="Highest Bid Increased" />
+      <item value="Events that will be emitted on changes." />
+      <item value="Allowed withdrawals of previous bids" />
+      <item value="Set to true at the end, disallows any change." />
+      <item value="ended" />
+      <item value="pending Returns" />
+      <item value="highest Bid" />
+      <item value="Bidder" />
       <item value="uint" />
       <item value="Auction" />
       <item value="auction End Time" />
-      <item value="beneficiary" />
       <item value="Parameters of the auction. Times are either absolute unix timestamps (seconds since 1970-01-01) or time periods in seconds." />
       <item value="Parameters of the auction. Times are either" />
       <item value="Warning: Visibility for constructor is ignored. If you want the contract to be non-deployable, making it &quot;abstract&quot; is sufficient." />
@@ -42,23 +54,11 @@
       <item value="only when the explicit type is present, though" />
       <item value="(only when the explicit type is present, though" />
       <item value="only when the explicit type is present" />
-      <item value="though" />
-      <item value="&lt;methodName&gt; has this form for some reason (only when the explicit type is present, though)" />
-      <item value="trim is not strictly correct, but macros don't expose the API necessary" />
-      <item value="&lt;methodName&gt; has this form for some reason" />
-      <item value="The produced tree is path dependent on the Universe reify was called from." />
-      <item value="representing" />
-      <item value="enclosing" />
-      <item value="spender" />
-      <item value="This creates an array with all balances" />
-      <item value="Emits an {Approval} event." />
-      <item value="This internal function is equivalent to `approve`, and can be used to e.g. set automatic allowances for certain subsystems, etc." />
-      <item value="dev" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1615" />
-        <entry key="ENGLISH" value="1616" />
+        <entry key="CHINESE" value="1633" />
+        <entry key="ENGLISH" value="1634" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
