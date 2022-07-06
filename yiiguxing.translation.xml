@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Bid was not actually revealed." />
+      <item value="Do not refund deposit." />
+      <item value="revealed" />
+      <item value="modifier" />
       <item value="Reveal your blinded bids. You will get a refund for all correctly blinded invalid bids and for all bids except for the totally highest." />
       <item value="refund" />
       <item value="Place a blinded bid with `blindedBid` = keccak256(abi.encodePacked(value, fake, secret)). The sent ether is only refunded if the bid is correctly revealed in the revealing phase. The bid is valid if the ether sent together with the bid is at least &quot;value&quot; and &quot;fake&quot; is not true. Setting &quot;fake&quot; to true and sending not the exact amount are ways to hide the real bid but still make the required deposit. The same address can place multiple bids." />
@@ -50,15 +54,11 @@
       <item value="highest Bid" />
       <item value="Bidder" />
       <item value="uint" />
-      <item value="auction End Time" />
-      <item value="Parameters of the auction. Times are either absolute unix timestamps (seconds since 1970-01-01) or time periods in seconds." />
-      <item value="Parameters of the auction. Times are either" />
-      <item value="Warning: Visibility for constructor is ignored. If you want the contract to be non-deployable, making it &quot;abstract&quot; is sufficient." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1675" />
-        <entry key="ENGLISH" value="1676" />
+        <entry key="CHINESE" value="1680" />
+        <entry key="ENGLISH" value="1681" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
