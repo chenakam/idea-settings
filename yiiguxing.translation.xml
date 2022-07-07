@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Check via multiplication that it wasn't an odd number." />
+      <item value="odd number" />
+      <item value="Division will truncate if it is an odd number." />
+      <item value="odd" />
+      <item value="truncate" />
       <item value="Bid was not actually revealed." />
       <item value="Do not refund deposit." />
       <item value="revealed" />
@@ -49,16 +54,11 @@
       <item value="Highest Bid Increased" />
       <item value="Allowed withdrawals of previous bids" />
       <item value="Set to true at the end, disallows any change." />
-      <item value="ended" />
-      <item value="pending Returns" />
-      <item value="highest Bid" />
-      <item value="Bidder" />
-      <item value="uint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1680" />
-        <entry key="ENGLISH" value="1681" />
+        <entry key="CHINESE" value="1686" />
+        <entry key="ENGLISH" value="1687" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
