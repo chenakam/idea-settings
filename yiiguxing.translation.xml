@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="reentrancy" />
+      <item value="Inactive" />
       <item value="Check via multiplication that it wasn't an odd number." />
       <item value="odd number" />
       <item value="Division will truncate if it is an odd number." />
@@ -52,13 +54,11 @@
       <item value="beneficiary Address" />
       <item value="Errors that describe failures." />
       <item value="Highest Bid Increased" />
-      <item value="Allowed withdrawals of previous bids" />
-      <item value="Set to true at the end, disallows any change." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1686" />
-        <entry key="ENGLISH" value="1687" />
+        <entry key="CHINESE" value="1688" />
+        <entry key="ENGLISH" value="1689" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
