@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="selfdestruct" />
       <item value="recreates" />
       <item value="assembly" />
       <item value="condition" />
@@ -53,12 +54,12 @@
       <item value="Create a simple auction with `biddingTime`" />
       <item value="bidding Time" />
       <item value="Auction" />
-      <item value="Events that will be emitted on changes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1692" />
+        <entry key="CHINESE" value="1693" />
         <entry key="ENGLISH" value="1693" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="4" />
