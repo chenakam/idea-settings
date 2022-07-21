@@ -1,0 +1,19 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="src/main/res/layout/i_l_patlex_discover.xml" value="0.27350427350427353" />
+        <entry key="src/main/res/layout/i_l_patlex_discover_i.xml" value="0.27350427350427353" />
+        <entry key="src/main/res/layout/i_l_patlex_discover_ii.xml" value="0.27350427350427353" />
+        <entry key="src/main/res/layout/i_l_patlex_spinner.xml" value="0.27350427350427353" />
+        <entry key="src/main/res/layout/l_title_bar.xml" value="0.27350427350427353" />
+        <entry key="src/main/res/layout/m_a_info_test.xml" value="0.27350427350427353" />
+        <entry key="src/main/res/layout/m_a_list_patlex_discover.xml" value="0.1" />
+        <entry key="src/main/res/layout/m_a_main.xml" value="0.1" />
+        <entry key="src/main/res/layout/m_a_patlex.xml" value="0.27350427350427353" />
+        <entry key="src/main/res/layout/t_m_a_test.xml" value="1.0" />
+      </map>
+    </option>
+  </component>
+</application>

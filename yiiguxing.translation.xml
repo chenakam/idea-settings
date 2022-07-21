@@ -1,0 +1,98 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="1175" />
+    <option name="newTranslationDialogX" value="505" />
+    <option name="newTranslationDialogY" value="85" />
+    <histories>
+      <item value="selfdestruct" />
+      <item value="recreates" />
+      <item value="assembly" />
+      <item value="condition" />
+      <item value="Purchase" />
+      <item value="reentrancy" />
+      <item value="Inactive" />
+      <item value="Check via multiplication that it wasn't an odd number." />
+      <item value="odd number" />
+      <item value="Division will truncate if it is an odd number." />
+      <item value="odd" />
+      <item value="truncate" />
+      <item value="Bid was not actually revealed." />
+      <item value="Do not refund deposit." />
+      <item value="revealed" />
+      <item value="modifier" />
+      <item value="Reveal your blinded bids. You will get a refund for all correctly blinded invalid bids and for all bids except for the totally highest." />
+      <item value="refund" />
+      <item value="Place a blinded bid with `blindedBid` = keccak256(abi.encodePacked(value, fake, secret)). The sent ether is only refunded if the bid is correctly revealed in the revealing phase. The bid is valid if the ether sent together with the bid is at least &quot;value&quot; and &quot;fake&quot; is not true. Setting &quot;fake&quot; to true and sending not the exact amount are ways to hide the real bid but still make the required deposit. The same address can place multiple bids." />
+      <item value="Place a blinded bid with `blindedBid` =" />
+      <item value="encode Packed" />
+      <item value="The new function body is the modifier's body where `_` is replaced by the old function body." />
+      <item value="validate" />
+      <item value="Modifiers are a convenient way to validate inputs to functions. `onlyBefore` is applied to `bid` below: The new function body is the modifier's body where `_` is replaced by the old function body." />
+      <item value="convenient" />
+      <item value="reveal" />
+      <item value="bidding" />
+      <item value="Create a simple auction with `biddingTime` seconds bidding time on behalf of the beneficiary address `beneficiaryAddress`." />
+      <item value="If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
+      <item value="3. interacting with other contracts If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
+      <item value="interacting with other contracts" />
+      <item value="potentially changing conditions" />
+      <item value="It is a good guideline to structure functions that interact with other contracts (i.e. they call functions or send Ether) into three phases: 1. checking conditions 2. performing actions (potentially changing conditions) 3. interacting with other contracts If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
+      <item value="End the auction and send the highest bid to the beneficiary." />
+      <item value="It is a good guideline to structure functions that interact with other contracts (i.e. they call functions or send Ether) into three phases:" />
+      <item value="interact" />
+      <item value="functions" />
+      <item value="structure" />
+      <item value="reset the amount owing" />
+      <item value="converted" />
+      <item value="explicitly" />
+      <item value="overbid" />
+      <item value="Withdraw a bid that was overbid." />
+      <item value="bid" />
+      <item value="beneficiary" />
+      <item value="behalf" />
+      <item value="seconds bidding time on behalf of the" />
+      <item value="Create a simple auction with `biddingTime`" />
+      <item value="bidding Time" />
+      <item value="Auction" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1693" />
+        <entry key="ENGLISH" value="1693" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="DANISH" value="4" />
+        <entry key="GERMAN" value="4" />
+        <entry key="RUSSIAN" value="4" />
+        <entry key="FRENCH" value="11" />
+        <entry key="FILIPINO" value="4" />
+        <entry key="FRISIAN" value="2" />
+        <entry key="GUJARATI" value="1" />
+        <entry key="DUTCH" value="5" />
+        <entry key="CATALAN" value="4" />
+        <entry key="CORSICAN" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="8" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="3" />
+        <entry key="JAPANESE" value="7" />
+        <entry key="SWEDISH" value="2" />
+        <entry key="SLOVAK" value="1" />
+        <entry key="SLOVENIAN" value="7" />
+        <entry key="TURKISH" value="1" />
+        <entry key="UZBEK" value="2" />
+        <entry key="SPANISH" value="1" />
+        <entry key="GREEK" value="2" />
+        <entry key="ITALIAN" value="10" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1657000707296" />
+  </component>
+  <component name="Settings">
+    <option name="showReplacementActionInContextMenu" value="true" />
+  </component>
+</application>
