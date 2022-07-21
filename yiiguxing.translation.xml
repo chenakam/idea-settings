@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Permanently added 'github.com' (ED25519) to the list of known hosts." />
       <item value="selfdestruct" />
       <item value="recreates" />
       <item value="assembly" />
@@ -53,12 +54,11 @@
       <item value="seconds bidding time on behalf of the" />
       <item value="Create a simple auction with `biddingTime`" />
       <item value="bidding Time" />
-      <item value="Auction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1693" />
-        <entry key="ENGLISH" value="1693" />
+        <entry key="ENGLISH" value="1694" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
@@ -90,7 +90,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657000707296" />
+    <option name="lastTrimTime" value="1658398225200" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
