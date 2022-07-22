@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Observed package id" />
       <item value="Permanently added 'github.com' (ED25519) to the list of known hosts." />
       <item value="selfdestruct" />
       <item value="recreates" />
@@ -53,12 +54,11 @@
       <item value="behalf" />
       <item value="seconds bidding time on behalf of the" />
       <item value="Create a simple auction with `biddingTime`" />
-      <item value="bidding Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1693" />
-        <entry key="ENGLISH" value="1694" />
+        <entry key="CHINESE" value="1694" />
+        <entry key="ENGLISH" value="1695" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
