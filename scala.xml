@@ -1,6 +1,8 @@
 <application>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="2dc8abb3-12f7-4ccd-95db-cadf8129e9f9" />
-    <option name="COMPILE_SERVER_SDK" value="Android Studio default JDK" />
+    <option name="USE_DEFAULT_SDK" value="false" />
+    <option name="COMPILE_SERVER_SDK" value="11" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4096" />
   </component>
 </application>
