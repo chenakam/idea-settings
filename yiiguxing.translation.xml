@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="295" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="App for auto-tx on exchanges, intelligent." />
+      <item value="App for auto-tx on exchanges intelligent." />
+      <item value="祝你好运" />
+      <item value="Re-perform `sbt sync`_Build_ again, with do not execute `clean` task before, it would be OK!" />
+      <item value="- Re-perform `sbt sync`_Build_ again with do not execute `clean` task before, it would be OK!" />
       <item value="alter" />
       <item value="modify" />
       <item value="amend" />
@@ -49,16 +54,11 @@
       <item value="It is a good guideline to structure functions that interact with other contracts (i.e. they call functions or send Ether) into three phases:" />
       <item value="interact" />
       <item value="functions" />
-      <item value="structure" />
-      <item value="reset the amount owing" />
-      <item value="converted" />
-      <item value="explicitly" />
-      <item value="overbid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1700" />
-        <entry key="ENGLISH" value="1701" />
+        <entry key="CHINESE" value="1704" />
+        <entry key="ENGLISH" value="1705" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
