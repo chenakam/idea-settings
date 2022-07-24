@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="inferred type is () -&gt; String but scala.Function0&lt;String!&gt;! was expected" />
+      <item value="expected" />
       <item value="com.android.tools.r8.internal.SX: Enforced and erased signatures are inconsistent in CallSite: {" />
       <item value="Enforced and erased signatures are inconsistent in CallSite" />
       <item value="App for auto-tx on exchanges, intelligent." />
@@ -52,13 +54,11 @@
       <item value="If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
       <item value="3. interacting with other contracts If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
       <item value="interacting with other contracts" />
-      <item value="potentially changing conditions" />
-      <item value="It is a good guideline to structure functions that interact with other contracts (i.e. they call functions or send Ether) into three phases: 1. checking conditions 2. performing actions (potentially changing conditions) 3. interacting with other contracts If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1698" />
-        <entry key="ENGLISH" value="1699" />
+        <entry key="CHINESE" value="1700" />
+        <entry key="ENGLISH" value="1701" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
