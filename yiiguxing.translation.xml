@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="App for auto-tx on exchanges, intelligent." />
+      <item value="App for auto-tx on exchanges intelligent." />
+      <item value="祝你好运" />
+      <item value="Re-perform `sbt sync`_Build_ again, with do not execute `clean` task before, it would be OK!" />
+      <item value="- Re-perform `sbt sync`_Build_ again with do not execute `clean` task before, it would be OK!" />
+      <item value="alter" />
+      <item value="modify" />
+      <item value="amend" />
       <item value="Requesting it with the 'apply false' option is a no-op." />
       <item value="dependency Resolution Management" />
       <item value="unable to find attribute android:lStar" />
@@ -54,11 +62,13 @@
       <item value="explicitly" />
       <item value="overbid" />
       <item value="Withdraw a bid that was overbid." />
+      <item value="bid" />
+      <item value="beneficiary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1698" />
-        <entry key="ENGLISH" value="1699" />
+        <entry key="CHINESE" value="1696" />
+        <entry key="ENGLISH" value="1697" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
