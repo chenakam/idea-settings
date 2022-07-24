@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Requesting it with the 'apply false' option is a no-op." />
       <item value="dependency Resolution Management" />
       <item value="unable to find attribute android:lStar" />
       <item value="Cruncher" />
@@ -53,12 +54,11 @@
       <item value="explicitly" />
       <item value="overbid" />
       <item value="Withdraw a bid that was overbid." />
-      <item value="bid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1697" />
-        <entry key="ENGLISH" value="1698" />
+        <entry key="CHINESE" value="1698" />
+        <entry key="ENGLISH" value="1699" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
