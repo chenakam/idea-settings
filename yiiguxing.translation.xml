@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="FAIL ON PROJECT REPOS" />
+      <item value="resolution Strategy" />
+      <item value="Plugin Resolution Strategy" />
+      <item value="plugin Management" />
+      <item value="dependency Resolution Management" />
+      <item value="Incubating" />
       <item value="inferred type is () -&gt; String but scala.Function0&lt;String!&gt;! was expected" />
       <item value="expected" />
       <item value="com.android.tools.r8.internal.SX: Enforced and erased signatures are inconsistent in CallSite: {" />
@@ -17,7 +23,6 @@
       <item value="modify" />
       <item value="amend" />
       <item value="Requesting it with the 'apply false' option is a no-op." />
-      <item value="dependency Resolution Management" />
       <item value="unable to find attribute android:lStar" />
       <item value="Cruncher" />
       <item value="Queued Cruncher" />
@@ -49,16 +54,11 @@
       <item value="Modifiers are a convenient way to validate inputs to functions. `onlyBefore` is applied to `bid` below: The new function body is the modifier's body where `_` is replaced by the old function body." />
       <item value="convenient" />
       <item value="reveal" />
-      <item value="bidding" />
-      <item value="Create a simple auction with `biddingTime` seconds bidding time on behalf of the beneficiary address `beneficiaryAddress`." />
-      <item value="If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
-      <item value="3. interacting with other contracts If these phases are mixed up, the other contract could call back into the current contract and modify the state or cause effects (ether payout) to be performed multiple times. If functions called internally include interaction with external contracts, they also have to be considered interaction with external contracts." />
-      <item value="interacting with other contracts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1700" />
-        <entry key="ENGLISH" value="1701" />
+        <entry key="CHINESE" value="1706" />
+        <entry key="ENGLISH" value="1707" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
