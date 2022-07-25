@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="reuse" />
       <item value="FAIL ON PROJECT REPOS" />
       <item value="resolution Strategy" />
       <item value="Plugin Resolution Strategy" />
@@ -53,12 +54,11 @@
       <item value="validate" />
       <item value="Modifiers are a convenient way to validate inputs to functions. `onlyBefore` is applied to `bid` below: The new function body is the modifier's body where `_` is replaced by the old function body." />
       <item value="convenient" />
-      <item value="reveal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1706" />
-        <entry key="ENGLISH" value="1707" />
+        <entry key="CHINESE" value="1707" />
+        <entry key="ENGLISH" value="1708" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
