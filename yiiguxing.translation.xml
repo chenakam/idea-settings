@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="ambiguous" />
       <item value="greeting" />
       <item value="is applicable for argument types" />
       <item value="applicable" />
@@ -53,12 +54,11 @@
       <item value="Place a blinded bid with `blindedBid` = keccak256(abi.encodePacked(value, fake, secret)). The sent ether is only refunded if the bid is correctly revealed in the revealing phase. The bid is valid if the ether sent together with the bid is at least &quot;value&quot; and &quot;fake&quot; is not true. Setting &quot;fake&quot; to true and sending not the exact amount are ways to hide the real bid but still make the required deposit. The same address can place multiple bids." />
       <item value="Place a blinded bid with `blindedBid` =" />
       <item value="encode Packed" />
-      <item value="The new function body is the modifier's body where `_` is replaced by the old function body." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1710" />
-        <entry key="ENGLISH" value="1711" />
+        <entry key="CHINESE" value="1711" />
+        <entry key="ENGLISH" value="1712" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
