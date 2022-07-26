@@ -1,7 +1,7 @@
 <scheme name="Idea Theme Fuzed Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2021-11-10T13:42:51</property>
+    <property name="modified">2022-07-26T11:26:05</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -131,6 +131,12 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="57a64a" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -12871,6 +12877,13 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dcdcdc" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="cfefc6" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEXT">
