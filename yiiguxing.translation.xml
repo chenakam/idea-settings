@@ -4,13 +4,13 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="resolution Strategy" />
       <item value="ambiguous" />
       <item value="greeting" />
       <item value="is applicable for argument types" />
       <item value="applicable" />
       <item value="reuse" />
       <item value="FAIL ON PROJECT REPOS" />
-      <item value="resolution Strategy" />
       <item value="Plugin Resolution Strategy" />
       <item value="plugin Management" />
       <item value="dependency Resolution Management" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1711" />
-        <entry key="ENGLISH" value="1712" />
+        <entry key="CHINESE" value="1712" />
+        <entry key="ENGLISH" value="1713" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
