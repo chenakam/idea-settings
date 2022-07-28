@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="extension" />
       <item value="subtree omitted (printed previously)" />
       <item value="resolution Strategy" />
       <item value="ambiguous" />
@@ -53,12 +54,11 @@
       <item value="Reveal your blinded bids. You will get a refund for all correctly blinded invalid bids and for all bids except for the totally highest." />
       <item value="refund" />
       <item value="Place a blinded bid with `blindedBid` = keccak256(abi.encodePacked(value, fake, secret)). The sent ether is only refunded if the bid is correctly revealed in the revealing phase. The bid is valid if the ether sent together with the bid is at least &quot;value&quot; and &quot;fake&quot; is not true. Setting &quot;fake&quot; to true and sending not the exact amount are ways to hide the real bid but still make the required deposit. The same address can place multiple bids." />
-      <item value="Place a blinded bid with `blindedBid` =" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1713" />
-        <entry key="ENGLISH" value="1714" />
+        <entry key="CHINESE" value="1714" />
+        <entry key="ENGLISH" value="1715" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
