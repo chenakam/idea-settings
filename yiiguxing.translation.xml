@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="handling" />
+      <item value="special handling in the IntelliJ model builder" />
+      <item value="The built-in test suite must be configured after the main source set is available due to some special handling in the IntelliJ model builder" />
       <item value="The SourceSet 'java' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
       <item value="Developer" />
       <item value="Hi, scala lover!" />
@@ -51,14 +54,11 @@
       <item value="Purchase" />
       <item value="reentrancy" />
       <item value="Inactive" />
-      <item value="Check via multiplication that it wasn't an odd number." />
-      <item value="odd number" />
-      <item value="Division will truncate if it is an odd number." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1722" />
-        <entry key="ENGLISH" value="1723" />
+        <entry key="CHINESE" value="1725" />
+        <entry key="ENGLISH" value="1726" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
