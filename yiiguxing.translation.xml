@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="greeter" />
       <item value="Scala Android Compat" />
       <item value="compat" />
       <item value="simple" />
@@ -53,12 +54,11 @@
       <item value="Bid was not actually revealed." />
       <item value="Do not refund deposit." />
       <item value="revealed" />
-      <item value="modifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1716" />
-        <entry key="ENGLISH" value="1717" />
+        <entry key="CHINESE" value="1717" />
+        <entry key="ENGLISH" value="1718" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
