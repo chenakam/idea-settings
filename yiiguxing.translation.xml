@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="The SourceSet 'java' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
       <item value="Developer" />
       <item value="Hi, scala lover!" />
       <item value="scalaer" />
@@ -53,12 +54,11 @@
       <item value="Check via multiplication that it wasn't an odd number." />
       <item value="odd number" />
       <item value="Division will truncate if it is an odd number." />
-      <item value="odd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1721" />
-        <entry key="ENGLISH" value="1722" />
+        <entry key="CHINESE" value="1722" />
+        <entry key="ENGLISH" value="1723" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
