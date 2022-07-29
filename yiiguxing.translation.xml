@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Developer" />
+      <item value="Hi, scala lover!" />
+      <item value="scalaer" />
+      <item value="scalar" />
       <item value="greeter" />
       <item value="Scala Android Compat" />
       <item value="compat" />
@@ -50,15 +54,11 @@
       <item value="odd number" />
       <item value="Division will truncate if it is an odd number." />
       <item value="odd" />
-      <item value="truncate" />
-      <item value="Bid was not actually revealed." />
-      <item value="Do not refund deposit." />
-      <item value="revealed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1717" />
-        <entry key="ENGLISH" value="1718" />
+        <entry key="CHINESE" value="1721" />
+        <entry key="ENGLISH" value="1722" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
@@ -71,7 +71,7 @@
         <entry key="CATALAN" value="4" />
         <entry key="CORSICAN" value="1" />
         <entry key="CROATIAN" value="1" />
-        <entry key="LATIN" value="8" />
+        <entry key="LATIN" value="9" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="3" />
