@@ -11,6 +11,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="jnilib" type="PLAIN_TEXT" />
       <mapping ext="torrent__" type="PLAIN_TEXT" />
+      <mapping ext="analysis" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
