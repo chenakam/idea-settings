@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="evaluated" />
+      <item value="This method is called when Gradle assembles the task execution graph for a build." />
       <item value="assembles" />
       <item value="referring" />
       <item value="get Resolution Strategy" />
@@ -52,13 +54,11 @@
       <item value="Observed package id" />
       <item value="Permanently added 'github.com' (ED25519) to the list of known hosts." />
       <item value="selfdestruct" />
-      <item value="recreates" />
-      <item value="assembly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1729" />
-        <entry key="ENGLISH" value="1730" />
+        <entry key="CHINESE" value="1732" />
+        <entry key="ENGLISH" value="1733" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
