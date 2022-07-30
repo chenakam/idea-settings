@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="link Scala Android Resource And Tasks" />
+      <item value="link" />
       <item value="Jvm Ecosystem Utilities" />
       <item value="distribution" />
       <item value="universal" />
@@ -52,13 +54,11 @@
       <item value="amend" />
       <item value="Requesting it with the 'apply false' option is a no-op." />
       <item value="unable to find attribute android:lStar" />
-      <item value="Cruncher" />
-      <item value="Queued Cruncher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1735" />
-        <entry key="ENGLISH" value="1736" />
+        <entry key="CHINESE" value="1737" />
+        <entry key="ENGLISH" value="1738" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
