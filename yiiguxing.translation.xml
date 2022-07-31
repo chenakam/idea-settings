@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="convention" />
       <item value="link Scala Android Resource And Tasks" />
       <item value="link" />
       <item value="Jvm Ecosystem Utilities" />
@@ -53,12 +54,11 @@
       <item value="modify" />
       <item value="amend" />
       <item value="Requesting it with the 'apply false' option is a no-op." />
-      <item value="unable to find attribute android:lStar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1737" />
-        <entry key="ENGLISH" value="1738" />
+        <entry key="CHINESE" value="1738" />
+        <entry key="ENGLISH" value="1739" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
