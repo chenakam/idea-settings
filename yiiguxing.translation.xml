@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="by Postfix" />
       <item value="convention" />
+      <item value="by Postfix" />
       <item value="link Scala Android Resource And Tasks" />
       <item value="link" />
       <item value="Jvm Ecosystem Utilities" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1739" />
-        <entry key="ENGLISH" value="1740" />
+        <entry key="CHINESE" value="1740" />
+        <entry key="ENGLISH" value="1741" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
