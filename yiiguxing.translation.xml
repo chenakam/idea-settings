@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Cupertino" />
       <item value="abeats" />
       <item value="applicable" />
       <item value="grep" />
@@ -53,12 +54,11 @@
       <item value="App for auto-tx on exchanges intelligent." />
       <item value="祝你好运" />
       <item value="Re-perform `sbt sync`_Build_ again, with do not execute `clean` task before, it would be OK!" />
-      <item value="- Re-perform `sbt sync`_Build_ again with do not execute `clean` task before, it would be OK!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1743" />
-        <entry key="ENGLISH" value="1744" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
