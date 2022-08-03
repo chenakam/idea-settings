@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="decoration" />
       <item value="computation" />
       <item value="Registers a callback to veto attempts by the user to dismiss the enclosing [ModalRoute]." />
       <item value="enclosing" />
@@ -53,12 +54,11 @@
       <item value="dependency Resolution Management" />
       <item value="Incubating" />
       <item value="inferred type is () -&gt; String but scala.Function0&lt;String!&gt;! was expected" />
-      <item value="expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1752" />
-        <entry key="ENGLISH" value="1753" />
+        <entry key="CHINESE" value="1753" />
+        <entry key="ENGLISH" value="1754" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
