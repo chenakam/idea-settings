@@ -1,7 +1,4 @@
 <code_scheme name="Default (1)" version="173">
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
@@ -28,6 +25,9 @@
     <option name="TYPE_ANNOTATION_PUBLIC_MEMBER" value="false" />
     <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
   </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Dart">
+    <option name="RIGHT_MARGIN" value="160" />
+  </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
