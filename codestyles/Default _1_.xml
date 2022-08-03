@@ -26,7 +26,7 @@
     <option name="TYPE_ANNOTATION_PROTECTED_MEMBER" value="false" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="160" />
+    <option name="RIGHT_MARGIN" value="230" />
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
