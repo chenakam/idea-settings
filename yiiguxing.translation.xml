@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="elastic In" />
+      <item value="curve" />
+      <item value="Tween" />
       <item value="reverse" />
       <item value="改版" />
       <item value="revision" />
@@ -51,14 +54,11 @@
       <item value="ambiguous" />
       <item value="greeting" />
       <item value="is applicable for argument types" />
-      <item value="reuse" />
-      <item value="FAIL ON PROJECT REPOS" />
-      <item value="Plugin Resolution Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1756" />
-        <entry key="ENGLISH" value="1757" />
+        <entry key="CHINESE" value="1759" />
+        <entry key="ENGLISH" value="1760" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
