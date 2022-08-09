@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Elevated" />
       <item value="recovery" />
       <item value="Recover" />
       <item value="Validate" />
@@ -53,12 +54,11 @@
       <item value="Closure" />
       <item value="convention" />
       <item value="by Postfix" />
-      <item value="link Scala Android Resource And Tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1788" />
-        <entry key="ENGLISH" value="1789" />
+        <entry key="CHINESE" value="1789" />
+        <entry key="ENGLISH" value="1790" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
