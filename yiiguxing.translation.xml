@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Validate" />
       <item value="max Cross Axis Extent" />
       <item value="extent" />
       <item value="constraints" />
@@ -53,12 +54,11 @@
       <item value="link Scala Android Resource And Tasks" />
       <item value="link" />
       <item value="Jvm Ecosystem Utilities" />
-      <item value="distribution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1785" />
-        <entry key="ENGLISH" value="1786" />
+        <entry key="CHINESE" value="1786" />
+        <entry key="ENGLISH" value="1787" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
