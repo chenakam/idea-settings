@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="a0917321" />
-          </Key>
-        </key>
-        <name value="OPPO PDVM00" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="09301FDD40004R" />
           </Key>
         </key>
         <name value="Google Pixel 5" />
         <target value="Android API 32" />
         <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="a0917321" />
+          </Key>
+        </key>
+        <name value="OPPO PDVM00" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
