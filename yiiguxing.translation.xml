@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="reassemble" />
       <item value="Validate Mnemonic" />
       <item value="Interact" />
       <item value="The following GlobalKey was specified multiple times in the widget tree. This will lead to parts of the widget tree being truncated unexpectedly, because the second time a key is seen, the previous instance is moved to the new location. The key was: - [LabeledGlobalKey&lt;ScaffoldState&gt;2d01e]" />
@@ -53,12 +54,11 @@
       <item value="改版" />
       <item value="revision" />
       <item value="exactly" />
-      <item value="decoration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1802" />
-        <entry key="ENGLISH" value="1803" />
+        <entry key="CHINESE" value="1803" />
+        <entry key="ENGLISH" value="1804" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
