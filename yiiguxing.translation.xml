@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="The following document explains reasons behind this strange subdomain declarations" />
+      <item value="Branch App Links" />
       <item value="Wallet Connect Usage" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'build.gradle'" />
       <item value="Global Key" />
@@ -52,13 +54,11 @@
       <item value="flipped" />
       <item value="elastic In" />
       <item value="curve" />
-      <item value="Tween" />
-      <item value="reverse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1806" />
-        <entry key="ENGLISH" value="1807" />
+        <entry key="CHINESE" value="1808" />
+        <entry key="ENGLISH" value="1809" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
