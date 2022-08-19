@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="scheme" />
       <item value="The following document explains reasons behind this strange subdomain declarations" />
       <item value="Branch App Links" />
       <item value="Wallet Connect Usage" />
@@ -53,12 +54,11 @@
       <item value="Curved" />
       <item value="flipped" />
       <item value="elastic In" />
-      <item value="curve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1808" />
-        <entry key="ENGLISH" value="1809" />
+        <entry key="CHINESE" value="1809" />
+        <entry key="ENGLISH" value="1810" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
