@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="cylffegyemrwcefy" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2103K19C" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="a0917321" />
           </Key>
         </key>
