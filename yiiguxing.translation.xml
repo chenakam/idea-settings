@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="coordinate" />
+      <item value="reliably" />
       <item value="descendant" />
       <item value="opaque" />
       <item value="embedding" />
@@ -52,13 +54,11 @@
       <item value="contained" />
       <item value="the" />
       <item value="Curves" />
-      <item value="Relative" />
-      <item value="Positioned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1812" />
-        <entry key="ENGLISH" value="1813" />
+        <entry key="CHINESE" value="1814" />
+        <entry key="ENGLISH" value="1815" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
