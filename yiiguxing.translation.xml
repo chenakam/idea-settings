@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Envelope" />
       <item value="Generic" />
       <item value="essentially" />
       <item value="ignoring Semantics" />
@@ -53,12 +54,11 @@
       <item value="Validate" />
       <item value="max Cross Axis Extent" />
       <item value="extent" />
-      <item value="constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1832" />
-        <entry key="ENGLISH" value="1833" />
+        <entry key="CHINESE" value="1833" />
+        <entry key="ENGLISH" value="1834" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
