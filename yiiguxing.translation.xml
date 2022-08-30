@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="barrier" />
       <item value="absolute Value" />
       <item value="elevation" />
       <item value="predicate" />
@@ -53,12 +54,11 @@
       <item value="transparency" />
       <item value="coped" />
       <item value="Elevated" />
-      <item value="recovery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1838" />
-        <entry key="ENGLISH" value="1839" />
+        <entry key="CHINESE" value="1839" />
+        <entry key="ENGLISH" value="1840" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
