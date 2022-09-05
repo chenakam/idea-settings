@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Consider migrate to `secure` instead." />
       <item value="contract" />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
       <item value="gen Miner Fee" />
@@ -53,12 +54,11 @@
       <item value="Callback that connects the created controller to the unity controller" />
       <item value="universal" />
       <item value="support varies significantly by platform:" />
-      <item value="gallery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1842" />
-        <entry key="ENGLISH" value="1843" />
+        <entry key="CHINESE" value="1843" />
+        <entry key="ENGLISH" value="1844" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661764861614" />
+    <option name="lastTrimTime" value="1662372032171" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
