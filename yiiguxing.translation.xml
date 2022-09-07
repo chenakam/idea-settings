@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Eth Like" />
       <item value="warranty" />
       <item value="newly" />
       <item value="Consider migrate to `secure` instead." />
@@ -53,12 +54,11 @@
       <item value="already Signed" />
       <item value="hexadecimal" />
       <item value="landscape Left" />
-      <item value="Callback that connects the created controller to the unity controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1845" />
-        <entry key="ENGLISH" value="1846" />
+        <entry key="CHINESE" value="1846" />
+        <entry key="ENGLISH" value="1847" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
