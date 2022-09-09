@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Indic" />
       <item value="separated" />
       <item value="cleartext Traffic Permitted" />
       <item value="The state of connection to an asynchronous computation." />
@@ -53,12 +54,11 @@
       <item value="Global Key" />
       <item value="reassemble" />
       <item value="Validate Mnemonic" />
-      <item value="Interact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1851" />
-        <entry key="ENGLISH" value="1852" />
+        <entry key="CHINESE" value="1852" />
+        <entry key="ENGLISH" value="1853" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
