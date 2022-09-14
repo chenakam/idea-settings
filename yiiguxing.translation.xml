@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="折合" />
       <item value="entropy" />
       <item value="shrink Wrap" />
       <item value="semantic Child Count" />
@@ -53,11 +54,10 @@
       <item value="Branch App Links" />
       <item value="Wallet Connect Usage" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'build.gradle'" />
-      <item value="Global Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1855" />
+        <entry key="CHINESE" value="1856" />
         <entry key="ENGLISH" value="1856" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
