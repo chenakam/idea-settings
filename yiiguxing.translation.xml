@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="receipt" />
+      <item value="Receipt" />
       <item value="signature" />
       <item value="original" />
       <item value="erc 20 True Name" />
@@ -52,13 +54,11 @@
       <item value="reliably" />
       <item value="descendant" />
       <item value="opaque" />
-      <item value="embedding" />
-      <item value="scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1859" />
-        <entry key="ENGLISH" value="1860" />
+        <entry key="CHINESE" value="1861" />
+        <entry key="ENGLISH" value="1862" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
