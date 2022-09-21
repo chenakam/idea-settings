@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="extract" />
       <item value="receipt" />
       <item value="Receipt" />
       <item value="signature" />
@@ -53,12 +54,11 @@
       <item value="coordinate" />
       <item value="reliably" />
       <item value="descendant" />
-      <item value="opaque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1861" />
-        <entry key="ENGLISH" value="1862" />
+        <entry key="CHINESE" value="1862" />
+        <entry key="ENGLISH" value="1863" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
