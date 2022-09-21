@@ -1,7 +1,7 @@
 <scheme name="Idea Theme Fuzed Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2022-07-26T11:26:05</property>
+    <property name="modified">2022-09-21T11:06:12</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -637,6 +637,42 @@
       <value>
         <option name="FOREGROUND" value="dcdcdc" />
         <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="cd0000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="ffff" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ERROR">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_INFO">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="b5cea8" />
+        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_WARNING">
+      <value>
+        <option name="FOREGROUND" value="ffff00" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
