@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="Google Pixel 5" />
-        <target value="Android API 33" />
-        <api value="33" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="Xiaomi M2103K19C" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,7 @@
         </key>
         <name value="OPPO PDVM00" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +43,7 @@
         </key>
         <name value="deltainno DT1901A" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
