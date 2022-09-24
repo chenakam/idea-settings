@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="plugin configuration consumption" />
+      <item value="consumption" />
+      <item value="maintained" />
       <item value="Convention" />
       <item value="Dummy" />
       <item value="去区块链浏览器查看" />
@@ -51,14 +54,11 @@
       <item value="ancestors" />
       <item value="Supervisor" />
       <item value="Supervisor Job" />
-      <item value="Proposal" />
-      <item value="crossinline" />
-      <item value="Relay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1867" />
-        <entry key="ENGLISH" value="1868" />
+        <entry key="CHINESE" value="1870" />
+        <entry key="ENGLISH" value="1871" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
