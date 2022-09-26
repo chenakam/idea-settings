@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Display" />
       <item value="Object Instantiation Exception" />
       <item value="An interface, if provided, must not define or inherit any other methods. Objects created using this method are not decorated or extensible." />
       <item value="convention" />
@@ -53,12 +54,11 @@
       <item value="recover" />
       <item value="restore" />
       <item value="strip 0 x" />
-      <item value="semantics Label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1875" />
-        <entry key="ENGLISH" value="1876" />
+        <entry key="CHINESE" value="1876" />
+        <entry key="ENGLISH" value="1877" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663579460722" />
+    <option name="lastTrimTime" value="1664165088942" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
