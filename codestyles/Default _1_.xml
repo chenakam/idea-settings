@@ -1,4 +1,6 @@
 <code_scheme name="Default (1)" version="173">
+  <option name="RIGHT_MARGIN" value="170" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>

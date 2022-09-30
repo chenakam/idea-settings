@@ -4,61 +4,61 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="Build was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'build.gradle'" />
-      <item value="Global Key" />
-      <item value="reassemble" />
-      <item value="Validate Mnemonic" />
-      <item value="Interact" />
-      <item value="The following GlobalKey was specified multiple times in the widget tree. This will lead to parts of the widget tree being truncated unexpectedly, because the second time a key is seen, the previous instance is moved to the new location. The key was: - [LabeledGlobalKey&lt;ScaffoldState&gt;2d01e]" />
-      <item value="Duplicate" />
-      <item value="already Signed" />
-      <item value="hexadecimal" />
-      <item value="landscape Left" />
-      <item value="Callback that connects the created controller to the unity controller" />
-      <item value="universal" />
-      <item value="support varies significantly by platform:" />
-      <item value="gallery" />
-      <item value="transparency" />
-      <item value="coped" />
-      <item value="Elevated" />
-      <item value="recovery" />
-      <item value="Recover" />
-      <item value="Validate" />
-      <item value="max Cross Axis Extent" />
-      <item value="extent" />
-      <item value="constraints" />
-      <item value="dimensional" />
-      <item value="tight" />
-      <item value="Expanded" />
-      <item value="Opacity" />
-      <item value="mnemonic" />
-      <item value="paper" />
-      <item value="papper" />
-      <item value="Medium" />
-      <item value="padding Top Adjustment" />
-      <item value="Indicator" />
-      <item value="Must have an ancestor [Material] widget in which to cause ink reactions. The [enableFeedback], and [excludeFromSemantics] arguments must not be null." />
-      <item value="Creates an ink well." />
-      <item value="stretch" />
-      <item value="indicator" />
-      <item value="distorting" />
-      <item value="contained" />
-      <item value="the" />
-      <item value="Curves" />
-      <item value="Relative" />
-      <item value="Positioned" />
-      <item value="Curved" />
-      <item value="flipped" />
-      <item value="elastic In" />
-      <item value="curve" />
-      <item value="Tween" />
-      <item value="reverse" />
-      <item value="改版" />
+      <item value="special" />
+      <item value="Featured" />
+      <item value="fancy title" />
+      <item value="hardware Accelerated" />
+      <item value="The fullscreen on my phone shows a black status bar, is weird." />
+      <item value="Dummy" />
+      <item value="elegant" />
+      <item value="Display" />
+      <item value="Object Instantiation Exception" />
+      <item value="An interface, if provided, must not define or inherit any other methods. Objects created using this method are not decorated or extensible." />
+      <item value="convention" />
+      <item value="get Greeter" />
+      <item value="extension Of" />
+      <item value="plugin configuration consumption" />
+      <item value="consumption" />
+      <item value="maintained" />
+      <item value="Convention" />
+      <item value="去区块链浏览器查看" />
+      <item value="Pending" />
+      <item value="Guest" />
+      <item value="extract" />
+      <item value="receipt" />
+      <item value="Receipt" />
+      <item value="signature" />
+      <item value="original" />
+      <item value="erc 20 True Name" />
+      <item value="decimals" />
+      <item value="折合" />
+      <item value="entropy" />
+      <item value="shrink Wrap" />
+      <item value="semantic Child Count" />
+      <item value="Indic" />
+      <item value="separated" />
+      <item value="cleartext Traffic Permitted" />
+      <item value="The state of connection to an asynchronous computation." />
+      <item value="Deterministic" />
+      <item value="Eth Like" />
+      <item value="warranty" />
+      <item value="newly" />
+      <item value="Consider migrate to `secure` instead." />
+      <item value="contract" />
+      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
+      <item value="gen Miner Fee" />
+      <item value="barrier" />
+      <item value="absolute Value" />
+      <item value="elevation" />
+      <item value="predicate" />
+      <item value="The context used to push or pop routes from the Navigator must be that of a widget that is a descendant of a Navigator widget." />
+      <item value="Envelope" />
+      <item value="Generic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1805" />
-        <entry key="ENGLISH" value="1806" />
+        <entry key="CHINESE" value="1882" />
+        <entry key="ENGLISH" value="1883" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660732792014" />
+    <option name="lastTrimTime" value="1664165088942" />
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />

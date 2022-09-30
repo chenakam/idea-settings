@@ -1,0 +1,13 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:com.abeats.client.wallet.debug " />
+        <option value="package:" />
+        <option value="package:hobby.chenai.nakam.autoex tag:@|privt.trisector" />
+        <option value="package:hobby.chenai.nakam.autoex " />
+        <option value="package:mine" />
+      </list>
+    </option>
+  </component>
+</application>
