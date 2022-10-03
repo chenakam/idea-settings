@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
-      <item value="ineligible" />
       <item value="Aware" />
+      <item value="ineligible" />
       <item value="Convention Task" />
       <item value="noisy" />
       <item value="special" />
