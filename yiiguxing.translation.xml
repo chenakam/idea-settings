@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="noisy" />
       <item value="special" />
       <item value="Featured" />
       <item value="fancy title" />
@@ -53,7 +54,6 @@
       <item value="predicate" />
       <item value="The context used to push or pop routes from the Navigator must be that of a widget that is a descendant of a Navigator widget." />
       <item value="Envelope" />
-      <item value="Generic" />
     </histories>
     <option name="languageScores">
       <map>
