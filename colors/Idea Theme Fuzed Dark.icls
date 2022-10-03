@@ -1,7 +1,7 @@
 <scheme name="Idea Theme Fuzed Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2022-09-21T11:06:12</property>
+    <property name="modified">2022-07-26T11:26:05</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -617,9 +617,6 @@
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="d69d85" />
-      </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>

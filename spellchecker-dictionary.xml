@@ -14,7 +14,9 @@
       <w>frac</w>
       <w>granu</w>
       <w>granul</w>
+      <w>hmac</w>
       <w>incr</w>
+      <w>kspwd</w>
       <w>lenh</w>
       <w>lenl</w>
       <w>lenm</w>
@@ -29,6 +31,7 @@
       <w>priceable</w>
       <w>rofs</w>
       <w>roughtime</w>
+      <w>spref</w>
       <w>toler</w>
       <w>trat</w>
       <w>untradable</w>
