@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="autowiring" />
       <item value="Aware" />
       <item value="ineligible" />
       <item value="Convention Task" />
@@ -53,7 +54,6 @@
       <item value="gen Miner Fee" />
       <item value="barrier" />
       <item value="absolute Value" />
-      <item value="elevation" />
     </histories>
     <option name="languageScores">
       <map>
