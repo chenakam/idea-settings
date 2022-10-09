@@ -95,5 +95,12 @@
   </component>
   <component name="Settings">
     <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="1d788b86cab1ca83" />
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
