@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="simple" />
       <item value="contract" />
       <item value="Contact" />
       <item value="The encoding must have an even number of digits." />
@@ -53,12 +54,11 @@
       <item value="The state of connection to an asynchronous computation." />
       <item value="Deterministic" />
       <item value="Eth Like" />
-      <item value="warranty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1884" />
-        <entry key="ENGLISH" value="1885" />
+        <entry key="CHINESE" value="1885" />
+        <entry key="ENGLISH" value="1886" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
