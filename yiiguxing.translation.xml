@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Destructive" />
+      <item value="example" />
+      <item value="Completer" />
       <item value="simple" />
       <item value="contract" />
       <item value="Contact" />
@@ -51,9 +54,6 @@
       <item value="Indic" />
       <item value="separated" />
       <item value="cleartext Traffic Permitted" />
-      <item value="The state of connection to an asynchronous computation." />
-      <item value="Deterministic" />
-      <item value="Eth Like" />
     </histories>
     <option name="languageScores">
       <map>
