@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="Composite" />
       <item value="Destructive" />
       <item value="example" />
       <item value="Completer" />
@@ -53,7 +54,6 @@
       <item value="semantic Child Count" />
       <item value="Indic" />
       <item value="separated" />
-      <item value="cleartext Traffic Permitted" />
     </histories>
     <option name="languageScores">
       <map>
