@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="all" />
       <item value="verb" />
       <item value="outgoing" />
       <item value="Strategy" />
@@ -53,7 +54,6 @@
       <item value="decimals" />
       <item value="折合" />
       <item value="entropy" />
-      <item value="shrink Wrap" />
     </histories>
     <option name="languageScores">
       <map>
