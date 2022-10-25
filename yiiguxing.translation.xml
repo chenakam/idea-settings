@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="applicant Id" />
       <item value="Specific" />
       <item value="all" />
       <item value="verb" />
@@ -53,7 +54,6 @@
       <item value="original" />
       <item value="erc 20 True Name" />
       <item value="decimals" />
-      <item value="折合" />
     </histories>
     <option name="languageScores">
       <map>
