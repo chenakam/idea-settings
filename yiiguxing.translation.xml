@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="any override coming from the DSL." />
       <item value="DEPRECATION" />
       <item value="Absent" />
       <item value="applicant Id" />
@@ -53,7 +54,6 @@
       <item value="receipt" />
       <item value="Receipt" />
       <item value="signature" />
-      <item value="original" />
     </histories>
     <option name="languageScores">
       <map>
