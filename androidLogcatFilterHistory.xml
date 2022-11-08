@@ -4,8 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.abeats.client.ones.ph.debug " />
-        <option value="package:com.abeats.client.newproj.bank.card.debug " />
+        <option value="package" />
         <option value="package:mine" />
+        <option value="package:com.abeats.client.newproj.bank.card.debug " />
         <option value="package:com.abeats.client.wallet.debug " />
         <option value="package:" />
         <option value="package:hobby.chenai.nakam.autoex tag:@|privt.trisector" />
