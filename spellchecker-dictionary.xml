@@ -34,10 +34,12 @@
       <w>roughtime</w>
       <w>spref</w>
       <w>toler</w>
+      <w>topo</w>
       <w>trat</w>
       <w>untradable</w>
       <w>usdt</w>
       <w>utxo</w>
+      <w>utxos</w>
       <w>volu</w>
     </words>
   </component>
