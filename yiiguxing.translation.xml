@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="505" />
     <option name="newTranslationDialogY" value="85" />
     <histories>
+      <item value="disambiguation Classifier" />
       <item value="extras" />
       <item value="any override coming from the DSL." />
       <item value="DEPRECATION" />
@@ -53,7 +54,6 @@
       <item value="Guest" />
       <item value="extract" />
       <item value="receipt" />
-      <item value="Receipt" />
     </histories>
     <option name="languageScores">
       <map>
