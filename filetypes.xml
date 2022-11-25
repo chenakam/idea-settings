@@ -20,6 +20,7 @@
       <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern="ddd" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
