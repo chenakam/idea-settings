@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".magent_0469D892-689C-4027-A8CA-86A6A5981DD0.torrent" type="ARCHIVE" />
       <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
+      <mapping ext="bin" type="CLASS" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
