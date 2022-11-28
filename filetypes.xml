@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".magent_0469D892-689C-4027-A8CA-86A6A5981DD0.torrent" type="ARCHIVE" />
       <mapping pattern="unity_builtin_extra" type="AUTO_DETECTED" />
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping ext="bin" type="CLASS" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -19,7 +20,7 @@
       <mapping ext="analysis" type="PLAIN_TEXT" />
       <mapping ext="lex" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="rs" type="Rust" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
@@ -27,6 +28,7 @@
       <removed_mapping pattern="ddd" approved="true" type="XML" />
       <removed_mapping pattern="ids.xml" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="ids.xml" approved="true" type="XML" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
