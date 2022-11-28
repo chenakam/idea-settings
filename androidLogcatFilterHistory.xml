@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.abeats.client.wallet.debug " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.abeats.client.wallet.debug " />
         <option value="package:mine" />
+        <option value="package:com.yunbao.shortvideo " />
+        <option value="package:com.abeats.client.ones.ph.debug " />
+        <option value="package" />
+        <option value="package:com.abeats.client.newproj.bank.card.debug " />
+        <option value="package:com.abeats.client.wallet.debug " />
         <option value="package:" />
         <option value="package:hobby.chenai.nakam.autoex tag:@|privt.trisector" />
         <option value="package:hobby.chenai.nakam.autoex " />
