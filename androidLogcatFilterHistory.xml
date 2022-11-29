@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.yunbao.shortvideo " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:com.yunbao.shortvideo " />
+        <option value="package:mine" />
         <option value="package:com.abeats.client.ones.ph.debug " />
         <option value="package" />
         <option value="package:com.abeats.client.newproj.bank.card.debug " />
