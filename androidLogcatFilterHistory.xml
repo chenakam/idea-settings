@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:com.abeats.live" />
+        <option value="package:com." />
         <option value="package:com.yunbao.shortvideo" />
         <option value="package:com.yunbao.shortvideo " />
         <option value="package:com.abeats.client.ones.ph.debug " />
