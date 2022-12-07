@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.abeats.live.debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.abeats.live.debug " />
         <option value="package:mine" />
         <option value="package:com.abeats.live" />
         <option value="package:com." />
