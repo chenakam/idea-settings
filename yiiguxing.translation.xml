@@ -107,6 +107,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="mutate" />
       <item value="ambiguity" />
       <item value="Suppress" />
       <item value="Area" />
