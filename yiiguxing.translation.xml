@@ -107,6 +107,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="duplicate" />
       <item value="artifact" />
       <item value="variant" />
       <item value="mutate" />
