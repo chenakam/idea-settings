@@ -107,6 +107,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="alternative for your library subproject" />
       <item value="duplicate" />
       <item value="artifact" />
       <item value="variant" />
