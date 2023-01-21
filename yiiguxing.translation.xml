@@ -107,6 +107,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="conveniently" />
       <item value="Supplier" />
       <item value="abbr" />
       <item value="alternative for your library subproject" />
