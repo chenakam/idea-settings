@@ -110,6 +110,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Distinguish" />
       <item value="discern" />
       <item value="is Satisfied By" />
       <item value="conveniently" />
@@ -127,7 +128,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
