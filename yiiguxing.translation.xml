@@ -103,10 +103,14 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670404200860" />
+    <option name="lastTrimTime" value="1676538567630" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="discern" />
       <item value="is Satisfied By" />
       <item value="conveniently" />
       <item value="Supplier" />
@@ -120,5 +124,11 @@
       <item value="Suppress" />
       <item value="Area" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
