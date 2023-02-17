@@ -110,6 +110,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="covariant" />
       <item value="Distinguish" />
       <item value="discern" />
       <item value="is Satisfied By" />
@@ -127,8 +128,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
