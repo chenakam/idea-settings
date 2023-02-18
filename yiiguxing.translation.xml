@@ -110,6 +110,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Place a Store fence after construction and before publishing to emulate ClassValueMap containing final fields." />
+      <item value="construction and before publishing to emulate" />
+      <item value="Store fence" />
       <item value="Sole constructor" />
       <item value="For invocation by subclass constructors, typically implicit" />
       <item value="covariant" />
@@ -130,8 +133,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
