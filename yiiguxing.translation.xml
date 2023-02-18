@@ -110,8 +110,40 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="870" />
-    <option name="newTranslationDialogY" value="373" />
+    <option name="newTranslationDialogY" value="370" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="要点在于混淆后，变量和方法的名字会变&#10;" />
+      <item value="要点在于混淆后，变量和m的名字会变&#10;" />
+      <item value="要点在于混淆后，变量和的名字会变&#10;" />
+      <item value="要点在于混淆后，变量h的名字会变&#10;" />
+      <item value="要点在于混淆后，变量的名字会变&#10;" />
+      <item value="要点在于混淆后，变量的名字会变" />
+      <item value="要点在于混淆后，变量的名字hui'bian" />
+      <item value="要点在于混淆后，变量的名字hui'bi" />
+      <item value="要点在于混淆后，变量的名字hui'biao" />
+      <item value="要点在于混淆后，变量的名字hui'b" />
+      <item value="要点在于混淆后，变量的名字hui" />
+      <item value="要点在于混淆后，变量的名字h" />
+      <item value="要点在于混淆后，变量的名字" />
+      <item value="要点在于混淆后，变量的ming'z" />
+      <item value="要点在于混淆后，变量的ming" />
+      <item value="要点在于混淆后，变量的" />
+      <item value="要点在于混淆后，变量" />
+      <item value="要点在于混淆后，bian'l" />
+      <item value="要点在于混淆后，bi'an" />
+      <item value="要点在于混淆后，b" />
+      <item value="要点在于混淆后，ba" />
+      <item value="要点在于混淆后，" />
+      <item value="要点在于混淆" />
+      <item value="要点在于" />
+      <item value="要点z" />
+      <item value="要点sai" />
+      <item value="要点s" />
+      <item value="要点" />
+      <item value="yao" />
+      <item value="y" />
+      <item value="将 [[ClassTag]] 中的 [[cacheDisabled]] 置为`true`。" />
       <item value="According to the usage, the changes are fine." />
       <item value="According to the usage, the changes is fine." />
       <item value="根据用法，本类改动没问题。" />
@@ -131,19 +163,11 @@
       <item value="conveniently" />
       <item value="Supplier" />
       <item value="abbr" />
-      <item value="alternative for your library subproject" />
-      <item value="duplicate" />
-      <item value="artifact" />
-      <item value="variant" />
-      <item value="mutate" />
-      <item value="ambiguity" />
-      <item value="Suppress" />
-      <item value="Area" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
