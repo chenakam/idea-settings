@@ -109,9 +109,17 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="784" />
-    <option name="newTranslationDialogY" value="103" />
+    <option name="newTranslationDialogX" value="868" />
+    <option name="newTranslationDialogY" value="425" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="但是Android的内置jdk没有这个类" />
+      <item value="但是Android的内置jdk没有这个" />
+      <item value="但是Android的内置jdk没有zhe'g" />
+      <item value="但是Android的内置jdk没有zhe" />
+      <item value="但是Android的内置jdk没有" />
+      <item value="But Android's built-in jdk doesn't" />
+      <item value="但 Android 内置的 jdk 没有" />
       <item value="preceding" />
       <item value="本方法的实现不能有任何的隐式转换，因为很可能又涉及到`Class Tag`，就死递归了" />
       <item value="也可能被删除，如果用不到的话" />
@@ -155,18 +163,11 @@
       <item value="fence" />
       <item value="Place a Store fence after construction and before publishing to emulate ClassValueMap containing final fields." />
       <item value="construction and before publishing to emulate" />
-      <item value="Store fence" />
-      <item value="Sole constructor" />
-      <item value="For invocation by subclass constructors, typically implicit" />
-      <item value="covariant" />
-      <item value="Distinguish" />
-      <item value="discern" />
-      <item value="is Satisfied By" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
