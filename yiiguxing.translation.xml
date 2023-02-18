@@ -110,6 +110,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The IMMUTABLE flag only limits the ability to alter the semantics of the intent that is sent by send by the invoker of send." />
       <item value="fence" />
       <item value="Place a Store fence after construction and before publishing to emulate ClassValueMap containing final fields." />
       <item value="construction and before publishing to emulate" />
@@ -134,8 +135,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
