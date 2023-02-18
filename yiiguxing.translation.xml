@@ -111,8 +111,8 @@
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="870" />
     <option name="newTranslationDialogY" value="370" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="也可能被删除，如果用不到的话" />
       <item value="要点在于混淆后，变量和方法的名字会变&#10;" />
       <item value="要点在于混淆后，变量和m的名字会变&#10;" />
       <item value="要点在于混淆后，变量和的名字会变&#10;" />
@@ -162,12 +162,11 @@
       <item value="is Satisfied By" />
       <item value="conveniently" />
       <item value="Supplier" />
-      <item value="abbr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
