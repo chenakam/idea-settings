@@ -1,7 +1,7 @@
 <scheme name="Idea Theme Fuzed Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2023-02-17T16:35:39</property>
+    <property name="modified">2023-02-18T16:50:35</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -389,7 +389,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e17f3e" />
+        <option name="FOREGROUND" value="e1c83e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
