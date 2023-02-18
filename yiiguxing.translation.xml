@@ -109,7 +109,14 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogX" value="870" />
+    <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="According to the usage, the changes are fine." />
+      <item value="According to the usage, the changes is fine." />
+      <item value="根据用法，本类改动没问题。" />
+      <item value="中用到：" />
+      <item value=", 并改了一些不能调用的 api。" />
       <item value="The IMMUTABLE flag only limits the ability to alter the semantics of the intent that is sent by send by the invoker of send." />
       <item value="fence" />
       <item value="Place a Store fence after construction and before publishing to emulate ClassValueMap containing final fields." />
@@ -135,8 +142,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
