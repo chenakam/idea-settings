@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="853" />
     <option name="newTranslationDialogY" value="157" />
     <histories>
+      <item value="Since the Android's built-in JDKJRE does NOT have implements the class `java.lang.ClassValue`" />
       <item value="即使在混淆后，它也能很好的运行" />
       <item value="即使在混淆后，t也能很好的运行" />
       <item value="即使在混淆后也能很好的运行" />
@@ -161,12 +162,11 @@
       <item value="但是你仍然需要定义一个简单的类，以便运行时能g" />
       <item value="但是你仍然需要定义一个简单的类，以便运行时neng" />
       <item value="但是你仍然需要定义一个简单的类，以便运行时neng'a" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时n" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
