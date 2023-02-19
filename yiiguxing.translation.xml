@@ -111,62 +111,63 @@
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="853" />
     <option name="newTranslationDialogY" value="157" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Or as a alternative," />
-      <item value="Since the Android's built-in jdk does NOT have implements the class `java.lang.ClassValue`" />
-      <item value="Since the Android's built-in jdk does NOT have impl the class `java.lang.ClassValue`" />
-      <item value="Since the Android's built-in jdk does NOT have the class `java.lang.ClassValue`" />
-      <item value="But Android's built-in jdk doesn't have this class." />
-      <item value="Android Dalvik" />
-      <item value="Dalvik" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用失效。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xiao。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xia'a。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xia。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xian。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xin。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xi。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'x。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用s。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用时。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'x'x。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的diao'y。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的diao。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类d。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本lei。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对ben。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使dui。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以shi。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以示。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，yi'shi。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，yi。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`。" />
-      <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`,。" />
-      <item value="使用反射" />
-      <item value="但是Android的内置jdk没有这个类" />
-      <item value="但是Android的内置jdk没有这个" />
-      <item value="但是Android的内置jdk没有zhe'g" />
-      <item value="但是Android的内置jdk没有zhe" />
-      <item value="但是Android的内置jdk没有" />
-      <item value="But Android's built-in jdk doesn't" />
-      <item value="但 Android 内置的 jdk 没有" />
-      <item value="preceding" />
-      <item value="本方法的实现不能有任何的隐式转换，因为很可能又涉及到`Class Tag`，就死递归了" />
-      <item value="也可能被删除，如果用不到的话" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个类。" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个类" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个l'w" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个ei" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个lie" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个l" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到zhe" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能zhao'd" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能zhao" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时能g" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时neng" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时neng'a" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时n" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行时" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行" />
+      <item value="但是你仍然需要定义一个简单的类，以便运行dhi" />
+      <item value="但是你仍然需要定义一个简单的类，以便yun'x" />
+      <item value="但是你仍然需要定义一个简单的类，以便yun'c" />
+      <item value="但是你仍然需要定义一个简单的类，以便" />
+      <item value="但是你仍然需要定义一个简单的类，以便：" />
+      <item value="But you still need to define a simple class so that :" />
+      <item value="But you still need to define a simple class:" />
+      <item value="已发现的问题" />
+      <item value="已发现的" />
+      <item value="已fa" />
+      <item value="yi'j" />
+      <item value="一发现" />
+      <item value="yi'fa" />
+      <item value="yi" />
+      <item value="但你仍需要定义一个简单的类：" />
+      <item value="但你仍需要定义一个简单的类" />
+      <item value="但你仍需要定义一个简单的" />
+      <item value="但你仍需要定义一个简单d" />
+      <item value="但你仍需要定义一个简单" />
+      <item value="但你仍需要定义一个" />
+      <item value="但你仍需要定义y" />
+      <item value="但你仍需要定义" />
+      <item value="但你仍需要ding'y" />
+      <item value="但你仍需要di" />
+      <item value="但你仍需要" />
+      <item value="但你仍" />
+      <item value="但你仍x" />
+      <item value="但你reng" />
+      <item value="但你rong" />
+      <item value="但你" />
+      <item value="d" />
+      <item value="Or as an alternative, you can set `cacheDisabled = true` in `ClassTag` to avoid method calls to `ClassValue`. To achieve this, you can use class [`classTagDisableCache`]" />
+      <item value="若要实现这个，可以使用 xxx." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="89" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
