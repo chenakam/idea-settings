@@ -109,9 +109,25 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="853" />
-    <option name="newTranslationDialogY" value="157" />
+    <option name="newTranslationDialogX" value="858" />
+    <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="reflective" />
+      <item value="Pattern" />
+      <item value="l" />
+      <item value="量化交易" />
+      <item value="量化" />
+      <item value="liang'h" />
+      <item value="liang" />
+      <item value="Latex" />
+      <item value="Laex" />
+      <item value="LaTex" />
+      <item value="LaTe" />
+      <item value="LaTeX" />
+      <item value="LaTe X" />
+      <item value="La Te X" />
+      <item value="语法" />
+      <item value="grammar" />
       <item value="Since the Android's built-in JDKJRE does NOT have implements the class `java.lang.ClassValue`" />
       <item value="即使在混淆后，它也能很好的运行" />
       <item value="即使在混淆后，t也能很好的运行" />
@@ -146,27 +162,11 @@
       <item value="已知wen" />
       <item value="已知" />
       <item value="yi'zhi" />
-      <item value="yi" />
-      <item value="But you still need to define a simple class so that it can be found at runtime:" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个类。" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个类" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个l'w" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个ei" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个lie" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个l" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能找到zhe" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能zhao'd" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能zhao" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时能g" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时neng" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时neng'a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
