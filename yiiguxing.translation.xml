@@ -112,6 +112,9 @@
     <option name="newTranslationDialogX" value="853" />
     <option name="newTranslationDialogY" value="157" />
     <histories>
+      <item value="But Android's built-in jdk doesn't have this class." />
+      <item value="Android Dalvik" />
+      <item value="Dalvik" />
       <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用失效。" />
       <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xiao。" />
       <item value="By default, Android App 使用反射{@link classTagDisableCache}禁用了上述{@code cache}，即：将上述`cacheDisabled`置为`true`，以使对本类的调用shi'xia'a。" />
@@ -159,14 +162,12 @@
       <item value="要点在于混淆后，变量和m的名字会变&#10;" />
       <item value="要点在于混淆后，变量和的名字会变&#10;" />
       <item value="要点在于混淆后，变量h的名字会变&#10;" />
-      <item value="要点在于混淆后，变量的名字会变&#10;" />
-      <item value="要点在于混淆后，变量的名字会变" />
-      <item value="要点在于混淆后，变量的名字hui'bian" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="ICELANDIC" value="2" />
       </map>
     </option>
   </component>
