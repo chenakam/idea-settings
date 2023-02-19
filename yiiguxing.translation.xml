@@ -111,8 +111,42 @@
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="853" />
     <option name="newTranslationDialogY" value="157" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="即使在混淆后，它也能很好的运行" />
+      <item value="即使在混淆后，t也能很好的运行" />
+      <item value="即使在混淆后也能很好的运行" />
+      <item value="即使z混淆后也能很好的运行" />
+      <item value="即使混淆后也能很好的运行" />
+      <item value="ji'shi混淆后也能很好的运行" />
+      <item value="ji's混淆后也能很好的运行" />
+      <item value="混淆后也能很好的运行" />
+      <item value="ji混淆后也能很好的运行" />
+      <item value="它在混淆后也能很好的运行" />
+      <item value="它在混淆后也能很好的" />
+      <item value="它在混淆后也能hen" />
+      <item value="它在混淆后也能h" />
+      <item value="它在混淆后也能" />
+      <item value="它在混淆后也能hun" />
+      <item value="它在混淆后也能hu'na" />
+      <item value="它在混淆后ye'm" />
+      <item value="它在混淆后ye" />
+      <item value="它在混淆后yi" />
+      <item value="它在混淆后" />
+      <item value="它在混淆" />
+      <item value="它在hun'x" />
+      <item value="它在hun" />
+      <item value="它在h" />
+      <item value="它在" />
+      <item value="它" />
+      <item value="ta" />
+      <item value="te" />
+      <item value="t" />
+      <item value="已知问题&#10;" />
+      <item value="已知wen" />
+      <item value="已知" />
+      <item value="yi'zhi" />
+      <item value="yi" />
+      <item value="But you still need to define a simple class so that it can be found at runtime:" />
       <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个类。" />
       <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个类" />
       <item value="但是你仍然需要定义一个简单的类，以便运行时能找到这个l'w" />
@@ -128,46 +162,11 @@
       <item value="但是你仍然需要定义一个简单的类，以便运行时neng" />
       <item value="但是你仍然需要定义一个简单的类，以便运行时neng'a" />
       <item value="但是你仍然需要定义一个简单的类，以便运行时n" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行时" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行" />
-      <item value="但是你仍然需要定义一个简单的类，以便运行dhi" />
-      <item value="但是你仍然需要定义一个简单的类，以便yun'x" />
-      <item value="但是你仍然需要定义一个简单的类，以便yun'c" />
-      <item value="但是你仍然需要定义一个简单的类，以便" />
-      <item value="但是你仍然需要定义一个简单的类，以便：" />
-      <item value="But you still need to define a simple class so that :" />
-      <item value="But you still need to define a simple class:" />
-      <item value="已发现的问题" />
-      <item value="已发现的" />
-      <item value="已fa" />
-      <item value="yi'j" />
-      <item value="一发现" />
-      <item value="yi'fa" />
-      <item value="yi" />
-      <item value="但你仍需要定义一个简单的类：" />
-      <item value="但你仍需要定义一个简单的类" />
-      <item value="但你仍需要定义一个简单的" />
-      <item value="但你仍需要定义一个简单d" />
-      <item value="但你仍需要定义一个简单" />
-      <item value="但你仍需要定义一个" />
-      <item value="但你仍需要定义y" />
-      <item value="但你仍需要定义" />
-      <item value="但你仍需要ding'y" />
-      <item value="但你仍需要di" />
-      <item value="但你仍需要" />
-      <item value="但你仍" />
-      <item value="但你仍x" />
-      <item value="但你reng" />
-      <item value="但你rong" />
-      <item value="但你" />
-      <item value="d" />
-      <item value="Or as an alternative, you can set `cacheDisabled = true` in `ClassTag` to avoid method calls to `ClassValue`. To achieve this, you can use class [`classTagDisableCache`]" />
-      <item value="若要实现这个，可以使用 xxx." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="102" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
