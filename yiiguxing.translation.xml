@@ -112,6 +112,10 @@
     <option name="newTranslationDialogX" value="853" />
     <option name="newTranslationDialogY" value="157" />
     <histories>
+      <item value="Or as a alternative," />
+      <item value="Since the Android's built-in jdk does NOT have implements the class `java.lang.ClassValue`" />
+      <item value="Since the Android's built-in jdk does NOT have impl the class `java.lang.ClassValue`" />
+      <item value="Since the Android's built-in jdk does NOT have the class `java.lang.ClassValue`" />
       <item value="But Android's built-in jdk doesn't have this class." />
       <item value="Android Dalvik" />
       <item value="Dalvik" />
@@ -158,15 +162,11 @@
       <item value="preceding" />
       <item value="本方法的实现不能有任何的隐式转换，因为很可能又涉及到`Class Tag`，就死递归了" />
       <item value="也可能被删除，如果用不到的话" />
-      <item value="要点在于混淆后，变量和方法的名字会变&#10;" />
-      <item value="要点在于混淆后，变量和m的名字会变&#10;" />
-      <item value="要点在于混淆后，变量和的名字会变&#10;" />
-      <item value="要点在于混淆后，变量h的名字会变&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="25" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
