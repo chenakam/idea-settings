@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="Capital Overview" />
       <item value="e.g." />
       <item value="e.g" />
       <item value="e" />
@@ -161,12 +162,11 @@
       <item value="liang" />
       <item value="Latex" />
       <item value="Laex" />
-      <item value="LaTex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
