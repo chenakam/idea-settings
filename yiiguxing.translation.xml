@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="Aggregate" />
       <item value="reflective" />
       <item value="Pattern" />
       <item value="l" />
@@ -161,12 +162,11 @@
       <item value="已知问题&#10;" />
       <item value="已知wen" />
       <item value="已知" />
-      <item value="yi'zhi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
