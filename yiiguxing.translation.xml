@@ -112,10 +112,49 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="e.g." />
+      <item value="e.g" />
+      <item value="e" />
+      <item value="For example " />
+      <item value="例如, " />
+      <item value="例如," />
+      <item value="例如" />
+      <item value="例如，" />
+      <item value="li'r" />
+      <item value="li" />
+      <item value="l" />
+      <item value="probability" />
+      <item value="很可能" />
+      <item value="hen'ke'n" />
+      <item value="hen'ke" />
+      <item value="hen'k" />
+      <item value="hen" />
+      <item value="h" />
+      <item value="proberbly" />
+      <item value="proberb" />
+      <item value="prober" />
+      <item value="prob" />
+      <item value="prog" />
+      <item value="pro" />
+      <item value="p" />
+      <item value="i.e." />
+      <item value="i.e" />
+      <item value="i." />
+      <item value="il" />
+      <item value="i" />
+      <item value="例如：" />
+      <item value="例如：A" />
+      <item value="为了实现这一点，你可以在应用程序启动的一开始使用类'classTagDisableCache'，" />
+      <item value="To achieve this, you can use class `classTagDisableCache` at the very beginning of your app startup," />
+      <item value="To achieve this, you can use class `classTagDisableCache`) at the very beginning of your app startup," />
+      <item value="To achieve this, you can use class `classTagDisableCache) at the very beginning of your app startup," />
+      <item value="To achieve this, you can use class [_`classTagDisableCache) at the very beginning of your app startup," />
+      <item value="To achieve this, you can use class [_`classTagDisableCache`_](https:github.combdo-cashassoidblobv.gradlesrcmainscalascalacompatclassTagDisableCache.scala) at the very beginning of your app startup," />
+      <item value="at the very beginning of your App startup" />
+      <item value="the very beginning of your App startup" />
       <item value="Aggregate" />
       <item value="reflective" />
       <item value="Pattern" />
-      <item value="l" />
       <item value="量化交易" />
       <item value="量化" />
       <item value="liang'h" />
@@ -123,50 +162,11 @@
       <item value="Latex" />
       <item value="Laex" />
       <item value="LaTex" />
-      <item value="LaTe" />
-      <item value="LaTeX" />
-      <item value="LaTe X" />
-      <item value="La Te X" />
-      <item value="语法" />
-      <item value="grammar" />
-      <item value="Since the Android's built-in JDKJRE does NOT have implements the class `java.lang.ClassValue`" />
-      <item value="即使在混淆后，它也能很好的运行" />
-      <item value="即使在混淆后，t也能很好的运行" />
-      <item value="即使在混淆后也能很好的运行" />
-      <item value="即使z混淆后也能很好的运行" />
-      <item value="即使混淆后也能很好的运行" />
-      <item value="ji'shi混淆后也能很好的运行" />
-      <item value="ji's混淆后也能很好的运行" />
-      <item value="混淆后也能很好的运行" />
-      <item value="ji混淆后也能很好的运行" />
-      <item value="它在混淆后也能很好的运行" />
-      <item value="它在混淆后也能很好的" />
-      <item value="它在混淆后也能hen" />
-      <item value="它在混淆后也能h" />
-      <item value="它在混淆后也能" />
-      <item value="它在混淆后也能hun" />
-      <item value="它在混淆后也能hu'na" />
-      <item value="它在混淆后ye'm" />
-      <item value="它在混淆后ye" />
-      <item value="它在混淆后yi" />
-      <item value="它在混淆后" />
-      <item value="它在混淆" />
-      <item value="它在hun'x" />
-      <item value="它在hun" />
-      <item value="它在h" />
-      <item value="它在" />
-      <item value="它" />
-      <item value="ta" />
-      <item value="te" />
-      <item value="t" />
-      <item value="已知问题&#10;" />
-      <item value="已知wen" />
-      <item value="已知" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
