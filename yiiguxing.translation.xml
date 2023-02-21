@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676538567630" />
+    <option name="lastTrimTime" value="1676976556585" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="get Enclosing Method" />
       <item value="represented" />
       <item value="Capital Overview" />
       <item value="e.g." />
@@ -161,12 +162,11 @@
       <item value="量化" />
       <item value="liang'h" />
       <item value="liang" />
-      <item value="Latex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
