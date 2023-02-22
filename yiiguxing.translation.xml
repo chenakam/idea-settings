@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="TIRAMISU" />
       <item value="get Enclosing Method" />
       <item value="represented" />
       <item value="Capital Overview" />
@@ -161,12 +162,12 @@
       <item value="量化交易" />
       <item value="量化" />
       <item value="liang'h" />
-      <item value="liang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
+        <entry key="CHINESE" value="133" />
         <entry key="ENGLISH" value="133" />
+        <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
     </option>
