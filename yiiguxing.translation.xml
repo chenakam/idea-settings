@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="instantiated" />
       <item value="Usage Disambiguation" />
       <item value="Returns the directory property that is bound to the task that produces the output via {@link compiledBy(TaskProvider, Function)}. Use this as part of a classpath or input to another task to ensure that the output is created before it is used." />
       <item value="capital overview" />
@@ -161,12 +162,11 @@
       <item value="at the very beginning of your App startup" />
       <item value="the very beginning of your App startup" />
       <item value="Aggregate" />
-      <item value="reflective" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
