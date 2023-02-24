@@ -112,6 +112,10 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="Cross Scope" />
+      <item value="cross Scope" />
+      <item value="范围" />
+      <item value="cross" />
       <item value="Rough" />
       <item value="Relative" />
       <item value="Evict" />
@@ -158,15 +162,11 @@
       <item value="i" />
       <item value="例如：" />
       <item value="例如：A" />
-      <item value="为了实现这一点，你可以在应用程序启动的一开始使用类'classTagDisableCache'，" />
-      <item value="To achieve this, you can use class `classTagDisableCache` at the very beginning of your app startup," />
-      <item value="To achieve this, you can use class `classTagDisableCache`) at the very beginning of your app startup," />
-      <item value="To achieve this, you can use class `classTagDisableCache) at the very beginning of your app startup," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
