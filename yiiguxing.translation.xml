@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="Duplicates" />
       <item value="normalization" />
       <item value="instantiated" />
       <item value="Usage Disambiguation" />
@@ -161,12 +162,11 @@
       <item value="To achieve this, you can use class [_`classTagDisableCache) at the very beginning of your app startup," />
       <item value="To achieve this, you can use class [_`classTagDisableCache`_](https:github.combdo-cashassoidblobv.gradlesrcmainscalascalacompatclassTagDisableCache.scala) at the very beginning of your app startup," />
       <item value="at the very beginning of your App startup" />
-      <item value="the very beginning of your App startup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
