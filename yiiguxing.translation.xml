@@ -112,13 +112,13 @@
     <option name="newTranslationDialogX" value="-612" />
     <option name="newTranslationDialogY" value="-113" />
     <histories>
+      <item value="joint compilation" />
       <item value="正常" />
       <item value="返回值将会永远为" />
       <item value="输出可能是错误的。" />
       <item value="`packageAndNamePaths` and `packageAndNameExcludes` are both empty," />
       <item value="是否正确设置了参数？Are the parameters set correctly?" />
       <item value="是否正确设置了参数？" />
-      <item value="joint compilation" />
       <item value="compilation" />
       <item value="joint" />
       <item value="Cross Scope" />
@@ -166,7 +166,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
