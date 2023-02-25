@@ -109,9 +109,15 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="858" />
-    <option name="newTranslationDialogY" value="84" />
+    <option name="newTranslationDialogX" value="-612" />
+    <option name="newTranslationDialogY" value="-113" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="返回值将会永远为" />
+      <item value="输出可能是错误的。" />
+      <item value="`packageAndNamePaths` and `packageAndNameExcludes` are both empty," />
+      <item value="是否正确设置了参数？Are the parameters set correctly?" />
+      <item value="是否正确设置了参数？" />
       <item value="joint compilation" />
       <item value="compilation" />
       <item value="joint" />
@@ -157,16 +163,11 @@
       <item value="prob" />
       <item value="prog" />
       <item value="pro" />
-      <item value="p" />
-      <item value="i.e." />
-      <item value="i.e" />
-      <item value="i." />
-      <item value="il" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
