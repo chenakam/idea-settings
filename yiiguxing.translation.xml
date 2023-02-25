@@ -112,6 +112,9 @@
     <option name="newTranslationDialogX" value="858" />
     <option name="newTranslationDialogY" value="84" />
     <histories>
+      <item value="joint compilation" />
+      <item value="compilation" />
+      <item value="joint" />
       <item value="Cross Scope" />
       <item value="cross Scope" />
       <item value="范围" />
@@ -159,14 +162,11 @@
       <item value="i.e" />
       <item value="i." />
       <item value="il" />
-      <item value="i" />
-      <item value="例如：" />
-      <item value="例如：A" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
