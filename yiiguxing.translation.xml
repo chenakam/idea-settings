@@ -111,7 +111,6 @@
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-612" />
     <option name="newTranslationDialogY" value="-113" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="返回值将会永远为" />
       <item value="输出可能是错误的。" />
