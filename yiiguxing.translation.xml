@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="-612" />
     <option name="newTranslationDialogY" value="-113" />
     <histories>
+      <item value="Major" />
       <item value="joint compilation" />
       <item value="正常" />
       <item value="返回值将会永远为" />
@@ -161,12 +162,11 @@
       <item value="proberb" />
       <item value="prober" />
       <item value="prob" />
-      <item value="prog" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
