@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="-612" />
     <option name="newTranslationDialogY" value="-113" />
     <histories>
+      <item value="freed" />
       <item value="in statement position; multiline expressions might require enclosing parentheses" />
       <item value="has bugs" />
       <item value="Major" />
@@ -161,12 +162,11 @@
       <item value="hen" />
       <item value="h" />
       <item value="proberbly" />
-      <item value="proberb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
