@@ -20,6 +20,7 @@
       <w>granul</w>
       <w>hmac</w>
       <w>incr</w>
+      <w>inited</w>
       <w>kspwd</w>
       <w>lenh</w>
       <w>lenl</w>
@@ -47,6 +48,7 @@
       <w>untradable</w>
       <w>usdt</w>
       <w>utxo</w>
+      <w>vibra</w>
       <w>viewmodel</w>
       <w>vmodel</w>
       <w>volu</w>
