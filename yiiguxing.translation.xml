@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676976556585" />
+    <option name="lastTrimTime" value="1677480047181" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="-612" />
     <option name="newTranslationDialogY" value="-113" />
     <histories>
+      <item value="in statement position; multiline expressions might require enclosing parentheses" />
       <item value="has bugs" />
       <item value="Major" />
       <item value="joint compilation" />
@@ -161,12 +162,11 @@
       <item value="h" />
       <item value="proberbly" />
       <item value="proberb" />
-      <item value="prober" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>
