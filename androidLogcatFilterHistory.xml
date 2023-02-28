@@ -5,15 +5,15 @@
         <option value="package:hobby.chenai.nakam.autoex:analyze level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:hobby.chenai.nakam.autoex" />
         <option value="level:warn " />
         <option value="level:error " />
         <option value="package:hobby.chenai.nakam.autoex:analyze" />
         <option value="package:hobby.chenai.nakam.autoex." />
-        <option value="package:mine" />
         <option value="package:mine tag:MainActy" />
         <option value="package:com.abeats.live" />
         <option value="package:com.abeats.live.debug " />
