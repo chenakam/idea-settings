@@ -1,12 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="favorites">
+      <list>
+        <option value="package:hobby.chenai.nakam.autoex:analyze level:warn " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="level:warn " />
+        <option value="package:hobby.chenai.nakam.autoex" />
+        <option value="package:hobby.chenai.nakam.autoex:analyze" />
+        <option value="package:hobby.chenai.nakam.autoex." />
         <option value="package:mine" />
         <option value="package:mine tag:MainActy" />
-        <option value="level:warn " />
-        <option value="level:error " />
         <option value="package:com.abeats.live" />
         <option value="package:com.abeats.live.debug " />
         <option value="package:com." />
