@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="-612" />
     <option name="newTranslationDialogY" value="-113" />
     <histories>
+      <item value="When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved." />
       <item value="freed" />
       <item value="in statement position; multiline expressions might require enclosing parentheses" />
       <item value="has bugs" />
@@ -161,12 +162,11 @@
       <item value="hen'k" />
       <item value="hen" />
       <item value="h" />
-      <item value="proberbly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
       </map>

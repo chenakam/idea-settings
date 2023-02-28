@@ -5,12 +5,12 @@
         <option value="package:hobby.chenai.nakam.autoex:analyze level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:hobby.chenai.nakam.autoex" />
         <option value="level:warn " />
         <option value="level:error " />
-        <option value="package:hobby.chenai.nakam.autoex" />
         <option value="package:hobby.chenai.nakam.autoex:analyze" />
         <option value="package:hobby.chenai.nakam.autoex." />
         <option value="package:mine" />
