@@ -112,6 +112,7 @@
     <option name="newTranslationDialogX" value="-612" />
     <option name="newTranslationDialogY" value="-113" />
     <histories>
+      <item value="contramap" />
       <item value="Applicative" />
       <item value="Accumulating" />
       <item value="Interfaces can't be instantiated! Register an InstanceCreator or a TypeAdapter for this type. Interface name: aa.o1" />
@@ -161,12 +162,11 @@
       <item value="probability" />
       <item value="很可能" />
       <item value="hen'ke'n" />
-      <item value="hen'ke" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
