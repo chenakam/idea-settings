@@ -2,10 +2,11 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine message:onResponseFundsAssign" />
         <option value="package:hobby.chenai.nakam.autoex:analyze level:warn " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
