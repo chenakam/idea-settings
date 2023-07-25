@@ -103,15 +103,16 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677480047181" />
+    <option name="lastTrimTime" value="1690260669680" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="-612" />
-    <option name="newTranslationDialogY" value="-113" />
+    <option name="newTranslationDialogX" value="589" />
+    <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="Unexpected javac output: 警告: [options] 未与 -source 11 一起设置系统模块路径" />
       <item value="contramap" />
       <item value="Applicative" />
       <item value="Accumulating" />
@@ -161,11 +162,10 @@
       <item value="l" />
       <item value="probability" />
       <item value="很可能" />
-      <item value="hen'ke'n" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
+        <entry key="CHINESE" value="164" />
         <entry key="ENGLISH" value="163" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
