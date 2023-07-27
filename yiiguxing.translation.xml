@@ -112,6 +112,10 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="Nevertheless, Gradle v8.0.1 ~ v8.2.1 is recommended, and Scala incremental compilation works well." />
+      <item value="However, Gradle v8.0.1 ~ v8.2.1 is recommended, and Scala incremental compilation works well." />
+      <item value="However" />
+      <item value="Therefore" />
       <item value="Unexpected javac output: 警告: [options] 未与 -source 11 一起设置系统模块路径" />
       <item value="contramap" />
       <item value="Applicative" />
@@ -158,15 +162,11 @@
       <item value="例如" />
       <item value="例如，" />
       <item value="li'r" />
-      <item value="li" />
-      <item value="l" />
-      <item value="probability" />
-      <item value="很可能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
