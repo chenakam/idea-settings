@@ -109,9 +109,19 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="260" />
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="been set" />
+      <item value="已设置" />
+      <item value="已she'z" />
+      <item value="已she" />
+      <item value="已上e" />
+      <item value="已sh" />
+      <item value="已" />
+      <item value="yi" />
+      <item value="settle" />
       <item value="and it will die recursively." />
       <item value="conversions" />
       <item value="Nevertheless, Gradle v8.0.1 ~ v8.2.1 is recommended, and Scala incremental compilation works well." />
@@ -153,20 +163,11 @@
       <item value="Rationale" />
       <item value="TIRAMISU" />
       <item value="get Enclosing Method" />
-      <item value="represented" />
-      <item value="Capital Overview" />
-      <item value="e.g." />
-      <item value="e.g" />
-      <item value="e" />
-      <item value="For example " />
-      <item value="例如, " />
-      <item value="例如," />
-      <item value="例如" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
