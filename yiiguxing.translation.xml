@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690260669680" />
+    <option name="lastTrimTime" value="1693136556721" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -112,6 +112,8 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="and it will die recursively." />
+      <item value="conversions" />
       <item value="Nevertheless, Gradle v8.0.1 ~ v8.2.1 is recommended, and Scala incremental compilation works well." />
       <item value="However, Gradle v8.0.1 ~ v8.2.1 is recommended, and Scala incremental compilation works well." />
       <item value="However" />
@@ -160,13 +162,11 @@
       <item value="例如, " />
       <item value="例如," />
       <item value="例如" />
-      <item value="例如，" />
-      <item value="li'r" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
