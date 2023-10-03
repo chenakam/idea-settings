@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693136556721" />
+    <option name="lastTrimTime" value="1696317665739" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -113,6 +113,9 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="generic signatures are preserved." />
+      <item value="make sure that generic signatures are preserved." />
+      <item value="signatures are preserved" />
       <item value="解决视图绑定的反射问题" />
       <item value="解决视图绑定的反射wen" />
       <item value="解决视图绑定的反射" />
@@ -160,14 +163,11 @@
       <item value="joint" />
       <item value="Cross Scope" />
       <item value="cross Scope" />
-      <item value="范围" />
-      <item value="cross" />
-      <item value="Rough" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
