@@ -113,6 +113,14 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="TODO: Fixed the problem with 'R.id.xxx' marked red (compile is still OK). Build with Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala. Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but compilation failed." />
+      <item value="but compilation failed." />
+      <item value="Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but failed with compilation." />
+      <item value="Build with Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala. Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but failed." />
+      <item value="Build in Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala." />
+      <item value="Build error in Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala." />
+      <item value="Build error in Gradle 8.x, 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala." />
+      <item value="Try to add the following" />
       <item value="Constraint" />
       <item value="generic signatures are preserved." />
       <item value="make sure that generic signatures are preserved." />
@@ -155,19 +163,11 @@
       <item value="Major" />
       <item value="joint compilation" />
       <item value="正常" />
-      <item value="返回值将会永远为" />
-      <item value="输出可能是错误的。" />
-      <item value="`packageAndNamePaths` and `packageAndNameExcludes` are both empty," />
-      <item value="是否正确设置了参数？Are the parameters set correctly?" />
-      <item value="是否正确设置了参数？" />
-      <item value="compilation" />
-      <item value="joint" />
-      <item value="Cross Scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
