@@ -113,9 +113,10 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="disabling all transitive dependencies of this dependency" />
+      <item value="transitive" />
       <item value="EXPLODED" />
       <item value="capitalize" />
-      <item value="transitive" />
       <item value="but will not warn if used otherwise." />
       <item value="convention" />
       <item value="TODO: Fixed the problem with 'R.id.xxx' marked red (compile is still OK). Build with Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala. Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but compilation failed." />
@@ -162,12 +163,11 @@
       <item value="Accumulating" />
       <item value="Interfaces can't be instantiated! Register an InstanceCreator or a TypeAdapter for this type. Interface name: aa.o1" />
       <item value="When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved." />
-      <item value="freed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
