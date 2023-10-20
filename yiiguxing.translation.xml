@@ -113,6 +113,7 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="capitalize" />
       <item value="transitive" />
       <item value="but will not warn if used otherwise." />
       <item value="convention" />
@@ -162,12 +163,11 @@
       <item value="When using code shrinkers (ProGuard, R8, ...) make sure that generic signatures are preserved." />
       <item value="freed" />
       <item value="in statement position; multiline expressions might require enclosing parentheses" />
-      <item value="has bugs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
