@@ -113,6 +113,7 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="transitive" />
       <item value="but will not warn if used otherwise." />
       <item value="convention" />
       <item value="TODO: Fixed the problem with 'R.id.xxx' marked red (compile is still OK). Build with Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala. Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but compilation failed." />
@@ -162,12 +163,11 @@
       <item value="freed" />
       <item value="in statement position; multiline expressions might require enclosing parentheses" />
       <item value="has bugs" />
-      <item value="Major" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
