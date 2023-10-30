@@ -113,6 +113,7 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="this is a terrible hack, but looks like the only way, other than proper support via light-classes" />
       <item value="can not be declared" />
       <item value="Variant 'githubDebugApiElements' capability scalroid-build-demo:app:unspecified declares attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug'" />
       <item value="Enables namespacing of each library's R class so that its R class includes only the resources declared in the library itself and none from the library's dependencies, thereby reducing the size of the R class for that library" />
@@ -162,12 +163,11 @@
       <item value="Therefore" />
       <item value="Unexpected javac output: 警告: [options] 未与 -source 11 一起设置系统模块路径" />
       <item value="contramap" />
-      <item value="Applicative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
