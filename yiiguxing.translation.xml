@@ -113,6 +113,19 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="Experimental, no effective by actual test." />
+      <item value="实际测试无效" />
+      <item value="effective" />
+      <item value="事实上" />
+      <item value="事实上的" />
+      <item value="Experimental, no effective with actual test." />
+      <item value="no effective with actual test" />
+      <item value="Experimental, no effective for actual test." />
+      <item value="实际的" />
+      <item value="实测" />
+      <item value="no effective" />
+      <item value="实测无效" />
+      <item value="Experimental, no effective" />
       <item value="this is a terrible hack, but looks like the only way, other than proper support via light-classes" />
       <item value="can not be declared" />
       <item value="Variant 'githubDebugApiElements' capability scalroid-build-demo:app:unspecified declares attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug'" />
@@ -150,24 +163,11 @@
       <item value="已设置" />
       <item value="已she'z" />
       <item value="已she" />
-      <item value="已上e" />
-      <item value="已sh" />
-      <item value="已" />
-      <item value="yi" />
-      <item value="settle" />
-      <item value="and it will die recursively." />
-      <item value="conversions" />
-      <item value="Nevertheless, Gradle v8.0.1 ~ v8.2.1 is recommended, and Scala incremental compilation works well." />
-      <item value="However, Gradle v8.0.1 ~ v8.2.1 is recommended, and Scala incremental compilation works well." />
-      <item value="However" />
-      <item value="Therefore" />
-      <item value="Unexpected javac output: 警告: [options] 未与 -source 11 一起设置系统模块路径" />
-      <item value="contramap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
