@@ -113,6 +113,10 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="Seems" />
+      <item value="似乎" />
+      <item value="Resolution" />
+      <item value="get Resolution Result" />
       <item value="external" />
       <item value="Experimental, no effective by actual test." />
       <item value="实际测试无效" />
@@ -159,15 +163,11 @@
       <item value="解决视图绑定d" />
       <item value="解决视图绑定" />
       <item value="解决视图绑定问题的反映" />
-      <item value="resolve reflect of viewbinding issue" />
-      <item value="been set" />
-      <item value="已设置" />
-      <item value="已she'z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="213" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
