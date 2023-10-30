@@ -113,6 +113,7 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="external" />
       <item value="Experimental, no effective by actual test." />
       <item value="实际测试无效" />
       <item value="effective" />
@@ -162,12 +163,11 @@
       <item value="been set" />
       <item value="已设置" />
       <item value="已she'z" />
-      <item value="已she" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
