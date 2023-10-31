@@ -113,6 +113,7 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="Tasks related to linking artifacts." />
       <item value="Seems" />
       <item value="似乎" />
       <item value="Resolution" />
@@ -162,12 +163,11 @@
       <item value="解决视图绑定的" />
       <item value="解决视图绑定d" />
       <item value="解决视图绑定" />
-      <item value="解决视图绑定问题的反映" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
