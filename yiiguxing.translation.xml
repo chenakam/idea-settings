@@ -113,6 +113,7 @@
     <option name="newTranslationDialogX" value="589" />
     <option name="newTranslationDialogY" value="429" />
     <histories>
+      <item value="transitive" />
       <item value="Tasks related to linking artifacts." />
       <item value="Seems" />
       <item value="似乎" />
@@ -137,7 +138,6 @@
       <item value="Variant 'githubDebugApiElements' capability scalroid-build-demo:app:unspecified declares attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug'" />
       <item value="Enables namespacing of each library's R class so that its R class includes only the resources declared in the library itself and none from the library's dependencies, thereby reducing the size of the R class for that library" />
       <item value="disabling all transitive dependencies of this dependency" />
-      <item value="transitive" />
       <item value="EXPLODED" />
       <item value="capitalize" />
       <item value="but will not warn if used otherwise." />
@@ -166,8 +166,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
