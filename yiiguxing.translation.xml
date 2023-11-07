@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1698817683651" />
+    <option name="lastTrimTime" value="1699340402190" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -114,6 +114,7 @@
     <option name="newTranslationDialogX" value="415" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Seems gen `package-aware-r.txt` file for aar (for module only)." />
       <item value="Add R class jars to the front of the classpath as libraries might also export compile-only classes. This behavior is verified in CompileRClassFlowTest While relying on this order seems brittle, it avoids doubling the number of files on the compilation classpath by exporting the R class separately or and is much simpler than having two different outputs from each library, with and without the R class, as AGP publishing code assumes there is exactly one artifact for each publication." />
       <item value="Nested" />
       <item value="transitive" />
@@ -163,12 +164,11 @@
       <item value="解决视图绑定的fan'she" />
       <item value="解决视图绑定的fan'shs" />
       <item value="解决视图绑定的fan" />
-      <item value="解决视图绑定的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="FRENCH" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
