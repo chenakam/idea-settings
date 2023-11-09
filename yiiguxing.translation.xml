@@ -114,6 +114,14 @@
     <option name="newTranslationDialogX" value="415" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="fix custom 'java.lang.ClassValue' for it has already built in the system on android 14 (and above)" />
+      <item value="fix custom 'java.lang.ClassValue' for it has already built in android system on android 14 (and above)" />
+      <item value="fix custom 'java.lang.ClassValue' for android 14 (and above) has already built in android system" />
+      <item value="fix custom defined 'java.lang.ClassValue' for android 14 (and above) for it has already built in android system" />
+      <item value="fix android 14 (and above) for 'java.lang.ClassValue' built in android system" />
+      <item value="is Android 14 Or Above" />
+      <item value="UPSIDE DOWN CAKE" />
+      <item value="TIRAMISU" />
       <item value="Unexpected" />
       <item value="Ambiguous" />
       <item value="All illegal access operations will be denied in a future release" />
@@ -156,20 +164,12 @@
       <item value="Build in Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala." />
       <item value="Build error in Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala." />
       <item value="Build error in Gradle 8.x, 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala." />
-      <item value="Try to add the following" />
-      <item value="Constraint" />
-      <item value="generic signatures are preserved." />
-      <item value="make sure that generic signatures are preserved." />
-      <item value="signatures are preserved" />
-      <item value="解决视图绑定的反射问题" />
-      <item value="解决视图绑定的反射wen" />
-      <item value="解决视图绑定的反射" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
+        <entry key="FRENCH" value="2" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
