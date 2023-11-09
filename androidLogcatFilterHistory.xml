@@ -9,8 +9,8 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:hobby.chenai.nakam.autoex.debug" />
         <option value="package:mine" />
+        <option value="package:hobby.chenai.nakam.autoex.debug" />
         <option value="package:hobby.chenai.nakam.autoex" />
         <option value="level:warn " />
         <option value="level:error " />
