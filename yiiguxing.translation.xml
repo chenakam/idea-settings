@@ -114,6 +114,8 @@
     <option name="newTranslationDialogX" value="415" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Since this module has a compatible 'java.lang.ClassValue', it is not possible for higher versions." />
+      <item value="Oct 18 18:56:43 2023" />
       <item value="Statistics Statics" />
       <item value="Almost Final Value" />
       <item value="expected" />
@@ -162,13 +164,11 @@
       <item value="convention" />
       <item value="TODO: Fixed the problem with 'R.id.xxx' marked red (compile is still OK). Build with Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala. Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but compilation failed." />
       <item value="but compilation failed." />
-      <item value="Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but failed with compilation." />
-      <item value="Build with Gradle 8.x: 'R.id.xxx' is no longer marked red in Kotlin, but still in Scala. Try to add the following script to `buildSrc...ScalaAndroidCompatPlugin.groovy`, but failed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="FRENCH" value="2" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
