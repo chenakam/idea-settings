@@ -114,6 +114,7 @@
     <option name="newTranslationDialogX" value="415" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Wed Oct 18 18:56:43 2023 +0800" />
       <item value="set App R Jar As Lib" />
       <item value="Whether to expand `R.jar`, so as to fix the problem of 'R.id.xxx' marked red in Scala code." />
       <item value="so as to" />
@@ -163,15 +164,15 @@
       <item value="Experimental, no effective for actual test." />
       <item value="实际的" />
       <item value="实测" />
-      <item value="no effective" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
+        <entry key="CHINESE" value="245" />
         <entry key="ENGLISH" value="245" />
         <entry key="FRENCH" value="2" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
