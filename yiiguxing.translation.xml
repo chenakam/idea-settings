@@ -114,6 +114,8 @@
     <option name="newTranslationDialogX" value="415" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="fallback To Destructive Migration" />
+      <item value="sealed" />
       <item value="Since with '2.6.0'" />
       <item value="Process xxx and gen `db_schemas`" />
       <item value="Process room annotations and gen `db_schemas`" />
@@ -162,13 +164,11 @@
       <item value="effective" />
       <item value="事实上" />
       <item value="事实上的" />
-      <item value="Experimental, no effective with actual test." />
-      <item value="no effective with actual test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="FRENCH" value="2" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
