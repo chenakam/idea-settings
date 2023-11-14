@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699340402190" />
+    <option name="lastTrimTime" value="1699934953274" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -114,6 +114,9 @@
     <option name="newTranslationDialogX" value="415" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Since with '2.6.0'" />
+      <item value="Process xxx and gen `db_schemas`" />
+      <item value="Process room annotations and gen `db_schemas`" />
       <item value="Wed Oct 18 18:56:43 2023 +0800" />
       <item value="set App R Jar As Lib" />
       <item value="Whether to expand `R.jar`, so as to fix the problem of 'R.id.xxx' marked red in Scala code." />
@@ -161,14 +164,11 @@
       <item value="事实上的" />
       <item value="Experimental, no effective with actual test." />
       <item value="no effective with actual test" />
-      <item value="Experimental, no effective for actual test." />
-      <item value="实际的" />
-      <item value="实测" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="FRENCH" value="2" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
