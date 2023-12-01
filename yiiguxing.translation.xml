@@ -103,7 +103,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699934953274" />
+    <option name="lastTrimTime" value="1701409649672" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -114,6 +114,7 @@
     <option name="newTranslationDialogX" value="415" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Service" />
       <item value="Adapting argument list by creating a 2-tuple: this may not be what you want." />
       <item value="obfuscation" />
       <item value="allowobfuscation" />
@@ -163,12 +164,11 @@
       <item value="transitive" />
       <item value="Tasks related to linking artifacts." />
       <item value="Seems" />
-      <item value="似乎" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="FRENCH" value="3" />
         <entry key="ICELANDIC" value="2" />
         <entry key="ITALIAN" value="1" />
